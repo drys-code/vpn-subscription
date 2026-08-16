@@ -46,6 +46,10 @@ jobs:
           TIMEOUT: "3"
           MAX_SERVERS: "200"
           MAX_WORKERS: "20"
+          # --- НОВЫЕ НАСТРОЙКИ ---
+          MAX_ALIVE_SERVERS: "4"
+          INCLUDE_COUNTRIES: ""
+          EXCLUDE_COUNTRIES: ""
         run: |
           python tools/update.py
 
