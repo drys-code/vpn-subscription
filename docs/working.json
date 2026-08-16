@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1786883152,
-  "updated_utc": "2026-08-16T12:25:52Z",
+  "updated_unix": 1786885751,
+  "updated_utc": "2026-08-16T13:09:11Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 167,
-  "alive_total": 159,
+  "checked": 168,
+  "alive_total": 168,
   "alive_filtered": 4,
   "servers": [
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.177.56.30:8880?type=ws&host=vms.lifetime09.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D",
-    "vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?security=tls&type=ws&path=/vless&host=admin.jikebet.com&sni=admin.jikebet.com&fp=android&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D",
-    "vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.64.80.1:8880?host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D",
-    "vless://129b50b6-060d-475c-b1de-b87c2a67051f@172.64.80.1:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=shrill-waterfall-bfe2.416.workers.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D"
+    "vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.64.80.1:8880?security=none&type=ws&host=misty-mouse-141d.177-f18.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B0%F0%9F%87%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D",
+    "vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?security=tls&sni=admin.jikebet.com&type=ws&path=%2Fvless&host=admin.jikebet.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D",
+    "vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?encryption=none&host=admin.jikebet.com&path=%2Fvless&security=tls&sni=admin.jikebet.com&type=ws&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D",
+    "vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?security=tls&type=ws&path=/vless&host=admin.jikebet.com&sni=admin.jikebet.com&fp=android&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D"
   ]
 }
