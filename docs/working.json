@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787082843,
-  "updated_utc": "2026-08-18T19:54:03Z",
+  "updated_unix": 1787084167,
+  "updated_utc": "2026-08-18T20:16:07Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 97,
   "alive_total": 97,
   "alive_filtered": 4,
   "servers": [
-    "vless://cd477134-ffce-473a-8dca-8ce5fc6eb3eb@216.167.54.75:47212?security=none&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
-    "vless://cd477134-ffce-473a-8dca-8ce5fc6eb3eb@216.167.54.75:47212?security=none&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
-    "vless://cd477134-ffce-473a-8dca-8ce5fc6eb3eb@216.167.54.75:47212?security=none&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
-    "vless://83c18ff2-0565-4b53-89ad-57357fef153b@172.96.121.6:443?encryption=none&flow=xtls-rprx-vision&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&security=reality&sid=29ff8963a9fe281c&sni=www.bing.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Woodruff%20%7C%20%5BBL%5D"
+    "vless://2c368215-ac89-4787-9762-edb2c9947630@185.95.231.156:443?flow=xtls-rprx-vision&pbk=ytnOqGbyUQ3efc25iPD8bJGdXgOi6zdBTP55JIa5OU0&security=reality&sid=964b2a1a&sni=www.apple.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://2c368215-ac89-4787-9762-edb2c9947630@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&pbk=ytnOqGbyUQ3efc25iPD8bJGdXgOi6zdBTP55JIa5OU0&security=reality&sid=964b2a1a&sni=www.apple.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://83c18ff2-0565-4b53-89ad-57357fef153b@172.96.121.6:443?encryption=none&flow=xtls-rprx-vision&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&security=reality&sid=29ff8963a9fe281c&sni=www.bing.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Woodruff%20%7C%20%5BBL%5D",
+    "vless://83c18ff2-0565-4b53-89ad-57357fef153b@172.96.121.6:443?encryption=none&flow=xtls-rprx-vision&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&security=reality&sid=29ff8963a9fe281c&sni=www.bing.com&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Woodruff%20%7C%20%5BBL%5D"
   ]
 }
