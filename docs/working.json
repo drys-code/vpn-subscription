@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787176933,
-  "updated_utc": "2026-08-19T22:02:13Z",
+  "updated_unix": 1787178969,
+  "updated_utc": "2026-08-19T22:36:09Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 108,
-  "alive_total": 108,
+  "checked": 106,
+  "alive_total": 106,
   "alive_filtered": 4,
   "servers": [
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Quincy%20%7C%20%5BBL%5D",
-    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Quincy%20%7C%20%5BBL%5D"
+    "vless://7792c309-4dde-49d9-9f71-bf29611caa52@167.82.76.69:80?mode=auto&security=none&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D",
+    "vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.129:443?encryption=none&fp=firefox&pbk=q-8lriuP627DilumgJAvbowp7YGzWBZg9gSDgbmowjk&security=reality&sid=9f3df965329a8e7f&sni=usa.savesafe.cc&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20West%20Miami%20%7C%20%5BBL%5D",
+    "vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.129:443?encryption=none&fp=qq&pbk=q-8lriuP627DilumgJAvbowp7YGzWBZg9gSDgbmowjk&security=reality&sid=9f3df965329a8e7f&sni=usa.savesafe.cc&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20West%20Miami%20%7C%20%5BBL%5D",
+    "vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@us.opngtr.nl:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&security=reality&sid=e4f6a3446ac34a23&sni=us.savesafe.cc&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
