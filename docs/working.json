@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787134297,
-  "updated_utc": "2026-08-19T10:11:37Z",
+  "updated_unix": 1787136475,
+  "updated_utc": "2026-08-19T10:47:55Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 125,
-  "alive_total": 124,
+  "checked": 112,
+  "alive_total": 112,
   "alive_filtered": 4,
   "servers": [
-    "vless://0f85a64b-55f4-4166-b217-7563d221cd4a@95.182.114.94:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=omvpn.info&fp=qq&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Kansas%20City%20%7C%20%5BBL%5D",
-    "vless://0f85a64b-55f4-4166-b217-7563d221cd4a@95.182.114.94:2053?encryption=none&type=grpc&serviceName=grpctest&mode=gun&security=reality&sni=omvpn.info&fp=edge&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Kansas%20City%20%7C%20%5BBL%5D",
-    "vless://0f85a64b-55f4-4166-b217-7563d221cd4a@95.182.114.94:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=omvpn.info&fp=firefox&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Kansas%20City%20%7C%20%5BBL%5D",
-    "vless://0f85a64b-55f4-4166-b217-7563d221cd4a@95.182.114.94:2053?encryption=none&type=grpc&serviceName=grpctest&mode=gun&security=reality&sni=omvpn.info&fp=chrome&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Kansas%20City%20%7C%20%5BBL%5D"
+    "vless://f6da8274-44be-4599-a8d8-66929c980677@152.53.38.23:2054?type=grpc&security=reality&fp=firefox&pbk=teH1wJW96tJosjZBhjCIb2u2v9cLUS9aj9mJA_blUVE&sid=af819b4bfd529732&sni=www.ibm.com&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://f6da8274-44be-4599-a8d8-66929c980677@152.53.38.23:2054?type=grpc&security=reality&fp=qq&pbk=teH1wJW96tJosjZBhjCIb2u2v9cLUS9aj9mJA_blUVE&sid=af819b4bfd529732&sni=www.ibm.com&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.67.148:443?security=reality&encryption=none&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=us.savesafe.cc&sid=e4f6a3446ac34a23#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.67.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&security=reality&sid=e4f6a3446ac34a23&sni=us.savesafe.cc&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
