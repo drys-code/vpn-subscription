@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787169299,
-  "updated_utc": "2026-08-19T19:54:59Z",
+  "updated_unix": 1787170766,
+  "updated_utc": "2026-08-19T20:19:26Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 107,
-  "alive_total": 107,
+  "alive_total": 103,
   "alive_filtered": 4,
   "servers": [
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=qq#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Quincy%20%7C%20%5BBL%5D"
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Quincy%20%7C%20%5BBL%5D",
+    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Quincy%20%7C%20%5BBL%5D",
+    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=false&type=ws&headerType=none&host=download.pusytroller.gq&path=%2F&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Quincy%20%7C%20%5BBL%5D"
   ]
 }
