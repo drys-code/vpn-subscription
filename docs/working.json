@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787164265,
-  "updated_utc": "2026-08-19T18:31:05Z",
+  "updated_unix": 1787166313,
+  "updated_utc": "2026-08-19T19:05:13Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 98,
-  "alive_total": 98,
+  "checked": 107,
+  "alive_total": 107,
   "alive_filtered": 4,
   "servers": [
-    "vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?encryption=none&security=tls&sni=de-new-1.ariyuz.org&insecure=0&allowInsecure=0&type=ws&host=de-new-1.ariyuz.org&path=%2F&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?encryption=none&security=tls&sni=de-new-1.ariyuz.org&insecure=0&allowInsecure=0&type=ws&host=de-new-1.ariyuz.org&path=%2F&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?encryption=none&security=tls&sni=de-new-1.ariyuz.org&insecure=0&allowInsecure=0&type=ws&host=de-new-1.ariyuz.org&path=%2F&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?encryption=none&security=tls&sni=de-new-1.ariyuz.org&insecure=0&allowInsecure=0&type=ws&host=de-new-1.ariyuz.org&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://7a1e59f5-ec16-4a5e-9bfb-bb6c0706c09b@8.6.112.6:8443?encryption=none&host=worker-015.miloi8dmz.top&path=%2Fcdn%2F7ae87fc47c544a50&security=tls&sni=ssl.miloi8dmz.top&type=ws&fp=qq#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
