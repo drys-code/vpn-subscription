@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787120294,
-  "updated_utc": "2026-08-19T06:18:14Z",
+  "updated_unix": 1787123405,
+  "updated_utc": "2026-08-19T07:10:05Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 134,
+  "checked": 130,
   "alive_total": 127,
   "alive_filtered": 4,
   "servers": [
     "vless://670fe17d-b0ff-4480-bdef-b85a495baadf@151.101.111.44:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.64.80.1:8880?security=none&type=ws&host=misty-mouse-141d.177-f18.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D",
     "vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80?&type=ws&headerType=none&host=dry-frog-8793.454-dc4.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://670fe17d-b0ff-4480-bdef-b85a495baadf@151.101.111.44:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh3.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://51a8d623-0d6d-4018-82f4-84b76d5bd015@151.101.129.242:443?alpn=http/1.1&encryption=none&fp=firefox&host=adheres-scruple.quick-cdn.net&path=/ws&security=tls&sni=adheres-scruple.quick-cdn.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Bear%20%7C%20%5BBL%5D"
+    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&host=worker3.dawejoy4544.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
