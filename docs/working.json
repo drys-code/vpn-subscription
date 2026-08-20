@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787201836,
-  "updated_utc": "2026-08-20T04:57:16Z",
+  "updated_unix": 1787203753,
+  "updated_utc": "2026-08-20T05:29:13Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 116,
-  "alive_total": 116,
+  "checked": 110,
+  "alive_total": 110,
   "alive_filtered": 4,
   "servers": [
     "vless://638623de-436a-48ae-9ecd-71ec42a168a1@151.101.111.49:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
     "vless://7792c309-4dde-49d9-9f71-bf29611caa52@167.82.76.69:80?encryption=none&type=xhttp&mode=auto&host=erfanyosyour-name.global.ssl.fastly.net&path=%2F&security=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D",
     "vless://7792c309-4dde-49d9-9f71-bf29611caa52@151.101.110.219:80?mode=auto&security=none&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D",
-    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&host=worker3.dawejoy4544.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&path=/?ed&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
