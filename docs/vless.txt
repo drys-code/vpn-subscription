@@ -1,4 +1,4 @@
 vless://7792c309-4dde-49d9-9f71-bf29611caa52@151.101.192.84:80?mode=auto&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
 vless://7792c309-4dde-49d9-9f71-bf29611caa52@151.101.110.219:80?encryption=none&type=xhttp&mode=auto&host=erfanyosyour-name.global.ssl.fastly.net&path=%2F&security=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
-vless://7792c309-4dde-49d9-9f71-bf29611caa52@151.101.128.84:80?mode=auto&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
 vless://7792c309-4dde-49d9-9f71-bf29611caa52@151.101.64.84:80?mode=auto&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
+vless://7792c309-4dde-49d9-9f71-bf29611caa52@151.101.128.84:80?mode=auto&encryption=none&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
