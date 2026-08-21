@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787333722,
-  "updated_utc": "2026-08-21T17:35:22Z",
+  "updated_unix": 1787335211,
+  "updated_utc": "2026-08-21T18:00:11Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 106,
-  "alive_total": 106,
+  "checked": 112,
+  "alive_total": 112,
   "alive_filtered": 4,
   "servers": [
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@193.111.208.36:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&fp=chrome&path=/%40zyzzzoao&host=cf.udpid.org&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&fp=chrome&path=/%40zyzzzoao&host=cf.udpid.org&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@144.225.246.111:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&fp=chrome&path=/%40zyzzzoao&host=cf.udpid.org&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
-    "vless://0554c552-da2c-4b65-9e3f-f42afdd4a484@95.154.221.155:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&sid=42171a632f3b99ed&sni=strapi.io#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D"
+    "vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@147.78.182.3:443?security=reality&type=xhttp&path=%2F&sni=www.epson.com&fp=qq&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@147.78.182.3:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=www.epson.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@147.78.182.3:443?security=reality&type=xhttp&path=%2F&sni=dl.kaspersky.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@147.78.182.3:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=dl.kaspersky.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D"
   ]
 }
