@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787291952,
-  "updated_utc": "2026-08-21T05:59:12Z",
+  "updated_unix": 1787295263,
+  "updated_utc": "2026-08-21T06:54:23Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 88,
-  "alive_total": 88,
+  "checked": 84,
+  "alive_total": 83,
   "alive_filtered": 4,
   "servers": [
-    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
-    "vless://0376de39-4ba8-4533-aeda-472c4b479762@66.33.22.233:13456?encryption=none&extra={\"xPaddingBytes\":\"100-1000\",\"mode\":\"auto\",\"scMaxEachPostBytes\":\"1000000\"}&fp=firefox&mode=auto&path=/&pbk=krYEkISvZ1UdNetNSPXNen2mW5xEw980yFkrhYyTRWQ&security=reality&sid=057b863d7bc5&sni=is1-ssl.mzstatic.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
-    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.177.56.30:8880?type=ws&host=vms.lifetime09.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&path=/?ed&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://8e85752d-c04f-427d-9d70-b10d144c8492@191.101.239.23:443?type=tcp&headerType=none&security=reality&encryption=none&sni=us.dataroute.biz&fp=firefox&pbk=Wj3z-pELBGqNcsJXAB8cd0SYd-t1r2C8iBPupqVEDjs&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D",
+    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D"
   ]
 }
