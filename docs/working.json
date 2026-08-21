@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787325478,
-  "updated_utc": "2026-08-21T15:17:58Z",
+  "updated_unix": 1787327517,
+  "updated_utc": "2026-08-21T15:51:57Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 103,
-  "alive_total": 95,
+  "checked": 100,
+  "alive_total": 100,
   "alive_filtered": 4,
   "servers": [
-    "vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?security=tls&encryption=none&insecure=0&host=za12kl3.bingnet.online&type=ws&allowInsecure=0&sni=za12kl3.bingnet.online&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?type=ws&security=tls&encryption=none&sni=za12kl3.bingnet.online&host=za12kl3.bingnet.online&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
     "vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?security=tls&encryption=none&insecure=0&host=za12kl3.bingnet.online&type=ws&allowInsecure=0&sni=za12kl3.bingnet.online&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?security=tls&encryption=none&insecure=0&host=za12kl3.bingnet.online&type=ws&allowInsecure=0&sni=za12kl3.bingnet.online&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://de3f3c66-4a10-4891-9312-dedef0193ae5@208.103.161.45:2053?security=tls&encryption=none&insecure=0&host=za12kl3.bingnet.online&type=ws&allowInsecure=0&sni=za12kl3.bingnet.online&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@ghosts-spasm.quick-cdn.net:443?security=tls&packet-encoding=xudp&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&headerType=none&host=ghosts-spasm.quick-cdn.net&path=%2Fws&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Bear%20%7C%20%5BBL%5D",
+    "vless://476bdb75-0d9b-49f2-a492-4cd68f594d32@ghosts-spasm.quick-cdn.net:443?security=tls&packet-encoding=xudp&alpn=http%2F1.1&sni=ghosts-spasm.quick-cdn.net&type=ws&headerType=none&host=ghosts-spasm.quick-cdn.net&path=%2Fws&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Bear%20%7C%20%5BBL%5D"
   ]
 }
