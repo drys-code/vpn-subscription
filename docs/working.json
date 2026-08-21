@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787288189,
-  "updated_utc": "2026-08-21T04:56:29Z",
+  "updated_unix": 1787290145,
+  "updated_utc": "2026-08-21T05:29:05Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 97,
-  "alive_total": 97,
+  "checked": 88,
+  "alive_total": 88,
   "alive_filtered": 4,
   "servers": [
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?type=ws&host=vms.lifetime59.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://60cf6ea2-7a3c-4a97-b7db-92f4de0be0cc@198.62.62.171:443?path=%2Fafpmrsws&security=tls&encryption=none&insecure=0&host=639222734213747055.forester-homaxe.info&fp=chrome&type=ws&allowInsecure=0&sni=639222734213747055.forester-homaxe.info#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Rosh%20HaAyin%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
-    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D"
+    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&path=/m10d8k6Ny5XLimc0?ed=2560&host=worker3.dawejoy4544.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.64.80.1:8880?security=none&type=ws&host=misty-mouse-141d.177-f18.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B0%F0%9F%87%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?type=ws&host=vms.lifetime59.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
