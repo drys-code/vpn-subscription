@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787307298,
-  "updated_utc": "2026-08-21T10:14:58Z",
+  "updated_unix": 1787309426,
+  "updated_utc": "2026-08-21T10:50:26Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 83,
-  "alive_total": 83,
+  "alive_total": 72,
   "alive_filtered": 4,
   "servers": [
-    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
-    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
     "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
-    "vless://8e85752d-c04f-427d-9d70-b10d144c8492@2.27.160.78:443?type=tcp&headerType=none&security=reality&encryption=none&sni=us1.horizonless.pro&fp=firefox&pbk=8WI2Xga4eP5BTlRGT4quntWwNWC2pFy6WYS1aFwwc3w&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D"
+    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?encryption=none&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&path=/?ed&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
