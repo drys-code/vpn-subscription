@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787378529,
-  "updated_utc": "2026-08-22T06:02:09Z",
+  "updated_unix": 1787381742,
+  "updated_utc": "2026-08-22T06:55:42Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 81,
-  "alive_total": 80,
+  "checked": 93,
+  "alive_total": 93,
   "alive_filtered": 4,
   "servers": [
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&fp=chrome&path=/%40zyzzzoao&host=cf.udpid.org&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&fp=edge&path=%2F%40zyzzzoao&host=cf.udpid.org&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&path=%2F%40zyzzzoao&host=cf.udpid.org&udp=1&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&host=cf.udpid.org&path=%2F%40zyzzzoao&security=tls&sni=cf.udpid.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D"
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&path=/?ed&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://f2d55510-fa3c-4e3b-adfc-2d96fa399c19@91.193.58.204:80?type=ws&security=none&encryption=none&path=%2Fpyip%3DTelegram%2B%40WangCai2&host=plain-darkness-90ea.259.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?type=ws&host=vms.lifetime59.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.177.56.30:8880?type=ws&host=vms.lifetime09.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
