@@ -1,13 +1,13 @@
 {
-  "updated_unix": 1787388916,
-  "updated_utc": "2026-08-22T08:55:16Z",
+  "updated_unix": 1787390468,
+  "updated_utc": "2026-08-22T09:21:08Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 94,
-  "alive_total": 92,
+  "alive_total": 93,
   "alive_filtered": 4,
   "servers": [
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.30:8880?type=ws&host=vms.lifetime09.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&path=/?ed&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&host=cf.udpid.org&path=%2F%40zyzzzoao&security=tls&sni=cf.udpid.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
+    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&path=%2F%40zyzzzoao&host=cf.udpid.org&udp=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
     "vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.64.80.1:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=misty-mouse-141d.177-f18.workers.dev&packetEncoding=xudp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B0%F0%9F%87%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D",
     "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.177.56.30:8880?type=ws&host=vms.lifetime09.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
