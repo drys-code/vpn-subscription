@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787411635,
-  "updated_utc": "2026-08-22T15:13:55Z",
+  "updated_unix": 1787413071,
+  "updated_utc": "2026-08-22T15:37:51Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 61,
-  "alive_total": 60,
+  "checked": 58,
+  "alive_total": 55,
   "alive_filtered": 4,
   "servers": [
-    "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.75:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa2.razkur.dev&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
     "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.75:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa2.razkur.dev&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-    "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.75:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa2.razkur.dev&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-    "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.73:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa3.razkur.dev&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D"
+    "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.73:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa3.razkur.dev&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.73:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa3.razkur.dev&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://3284cf4e-b74a-4424-ba91-f81408372c78@179.255.185.75:443?encryption=none&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa2.razkur.dev&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D"
   ]
 }
