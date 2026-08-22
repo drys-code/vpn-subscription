@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787355985,
-  "updated_utc": "2026-08-21T23:46:25Z",
+  "updated_unix": 1787356915,
+  "updated_utc": "2026-08-22T00:01:55Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 128,
   "alive_total": 128,
   "alive_filtered": 4,
   "servers": [
-    "vless://794d546b-1938-482e-a337-fee751909ab4@spiderpanel-production-44f6.up.railway.app:443?path=%2Fws%2F794d546b-1938-482e-a337-fee751909ab4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-44f6.up.railway.app&type=ws&allowInsecure=0&sni=spiderpanel-production-44f6.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
-    "vless://794d546b-1938-482e-a337-fee751909ab4@spiderpanel-production-44f6.up.railway.app:443?path=%2Fws%2F794d546b-1938-482e-a337-fee751909ab4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-44f6.up.railway.app&type=ws&allowInsecure=0&sni=spiderpanel-production-44f6.up.railway.app&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
     "vless://794d546b-1938-482e-a337-fee751909ab4@spiderpanel-production-44f6.up.railway.app:443?path=%2Fws%2F794d546b-1938-482e-a337-fee751909ab4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-44f6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-44f6.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
-    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&path=%2F%40zyzzzoao&host=cf.udpid.org&udp=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D"
+    "vless://794d546b-1938-482e-a337-fee751909ab4@spiderpanel-production-44f6.up.railway.app:443?path=%2Fws%2F794d546b-1938-482e-a337-fee751909ab4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-44f6.up.railway.app&type=ws&allowInsecure=0&sni=spiderpanel-production-44f6.up.railway.app&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&path=%2F%40zyzzzoao&host=cf.udpid.org&udp=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D",
+    "vless://7893b302-3882-4c38-9ab6-6313f1575d1a@179.255.108.176:443?encryption=none&security=tls&sni=cf.udpid.org&type=ws&path=%2F%40zyzzzoao&host=cf.udpid.org&udp=1&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%7C%20%5BBL%5D"
   ]
 }
