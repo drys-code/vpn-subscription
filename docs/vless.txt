@@ -1,4 +1,4 @@
-vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
+vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
+vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
 vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
 vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
-vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
