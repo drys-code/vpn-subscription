@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787493791,
-  "updated_utc": "2026-08-23T14:03:11Z",
+  "updated_unix": 1787495717,
+  "updated_utc": "2026-08-23T14:35:17Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 59,
-  "alive_total": 57,
+  "alive_total": 59,
   "alive_filtered": 4,
   "servers": [
-    "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=android#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D",
-    "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=firefox#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D",
+    "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=safari#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D",
+    "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=ios#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D",
     "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=qq#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D",
-    "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=360#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D"
+    "vless://2808bf00-f7af-4b8b-85cb-6bb5cfa4cba6@158.23.49.45:8443?security=tls&sni=mexicotrash.duckdns.org&type=tcp&fp=edge#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%2C%20Quer%C3%A9taro%20City%20%7C%20%5BBL%5D"
   ]
 }
