@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787481871,
-  "updated_utc": "2026-08-23T10:44:31Z",
+  "updated_unix": 1787482907,
+  "updated_utc": "2026-08-23T11:01:47Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 83,
-  "alive_total": 79,
+  "checked": 84,
+  "alive_total": 77,
   "alive_filtered": 4,
   "servers": [
-    "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D",
     "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D",
-    "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D",
-    "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D"
+    "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D",
+    "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D",
+    "vless://5765ce93-68d1-4383-90d1-567306deb3db@web-production-7a7ff.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-7a7ff.up.railway.app&path=%2Fvl-ws&sni=web-production-7a7ff.up.railway.app&alpn=http%2F1.1&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D"
   ]
 }
