@@ -1,6 +1,6 @@
 {
-  "updated_unix": 1787503087,
-  "updated_utc": "2026-08-23T16:38:07Z",
+  "updated_unix": 1787504344,
+  "updated_utc": "2026-08-23T16:59:04Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 54,
   "alive_total": 54,
@@ -8,7 +8,7 @@
   "servers": [
     "vless://d219e1a7-3970-4b9a-a112-2c90ec7848b5@172.245.55.199:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=SQ1-UFO_LUU_sk2b2hAT60Hc_JMGF0NXr6dQiqZATSg&sid=2f575a1f4efa38bf&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D",
     "vless://d219e1a7-3970-4b9a-a112-2c90ec7848b5@172.245.55.199:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=SQ1-UFO_LUU_sk2b2hAT60Hc_JMGF0NXr6dQiqZATSg&sid=2f575a1f4efa38bf&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D",
-    "vless://d219e1a7-3970-4b9a-a112-2c90ec7848b5@172.245.55.199:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=SQ1-UFO_LUU_sk2b2hAT60Hc_JMGF0NXr6dQiqZATSg&sid=2f575a1f4efa38bf&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D",
-    "vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.174:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D"
+    "vless://d219e1a7-3970-4b9a-a112-2c90ec7848b5@172.245.55.199:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=SQ1-UFO_LUU_sk2b2hAT60Hc_JMGF0NXr6dQiqZATSg&sid=2f575a1f4efa38bf&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D",
+    "vless://d219e1a7-3970-4b9a-a112-2c90ec7848b5@172.245.55.199:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=SQ1-UFO_LUU_sk2b2hAT60Hc_JMGF0NXr6dQiqZATSg&sid=2f575a1f4efa38bf&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D"
   ]
 }
