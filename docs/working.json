@@ -1,13 +1,13 @@
 {
-  "updated_unix": 1787529197,
-  "updated_utc": "2026-08-23T23:53:17Z",
+  "updated_unix": 1787532870,
+  "updated_utc": "2026-08-24T00:54:30Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 64,
-  "alive_total": 64,
+  "alive_total": 60,
   "alive_filtered": 4,
   "servers": [
-    "vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
     "vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
+    "vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
     "vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
     "vless://03bb538f-2a16-4a31-a747-1a5e5a4c8cfa@us06hk.lockdwn.com:443?type=ws&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D"
   ]
