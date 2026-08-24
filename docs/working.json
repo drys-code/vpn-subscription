@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787595297,
-  "updated_utc": "2026-08-24T18:14:57Z",
+  "updated_unix": 1787598109,
+  "updated_utc": "2026-08-24T19:01:49Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 99,
-  "alive_total": 99,
+  "checked": 98,
+  "alive_total": 97,
   "alive_filtered": 4,
   "servers": [
-    "vless://e277ac9b-3225-3381-a9fb-3585419f7142@tgju.org:443?security=tls&type=ws&path=%2Fmedia05&host=media05.alibackupp.info&packetEncoding=xudp&alpn=http%2F1.1&sni=media05.alibackupp.info&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D",
-    "vless://e277ac9b-3225-3381-a9fb-3585419f7142@tgju.org:443?security=tls&type=ws&path=%2Fmedia05&host=media05.alibackupp.info&packetEncoding=xudp&alpn=http%2F1.1&sni=media05.alibackupp.info&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D",
     "vless://e277ac9b-3225-3381-a9fb-3585419f7142@tgju.org:443?security=tls&type=ws&path=%2Fmedia05&host=media05.alibackupp.info&packetEncoding=xudp&alpn=http%2F1.1&sni=media05.alibackupp.info&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D",
-    "vless://acc78fe2-d53c-489e-9fb5-563191a9590c@web-production-bef71.up.railway.app:443?path=%2Fws%2Facc78fe2-d53c-489e-9fb5-563191a9590c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-bef71.up.railway.app&type=ws&allowInsecure=0&sni=web-production-bef71.up.railway.app&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
+    "vless://e277ac9b-3225-3381-a9fb-3585419f7142@tgju.org:443?security=tls&type=ws&path=%2Fmedia05&host=media05.alibackupp.info&packetEncoding=xudp&alpn=http%2F1.1&sni=media05.alibackupp.info&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D",
+    "vless://e277ac9b-3225-3381-a9fb-3585419f7142@tgju.org:443?security=tls&type=ws&path=%2Fmedia05&host=media05.alibackupp.info&packetEncoding=xudp&alpn=http%2F1.1&sni=media05.alibackupp.info&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D",
+    "vless://e277ac9b-3225-3381-a9fb-3585419f7142@tgju.org:443?security=tls&type=ws&path=%2Fmedia05&host=media05.alibackupp.info&packetEncoding=xudp&alpn=http%2F1.1&sni=media05.alibackupp.info&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D"
   ]
 }
