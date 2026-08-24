@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787581312,
-  "updated_utc": "2026-08-24T14:21:52Z",
+  "updated_unix": 1787584129,
+  "updated_utc": "2026-08-24T15:08:49Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 117,
-  "alive_total": 115,
+  "alive_total": 113,
   "alive_filtered": 4,
   "servers": [
-    "vless://99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf@spiderpanel-production-a39f.up.railway.app:443?path=%2Fws%2F99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-a39f.up.railway.app&type=ws&allowInsecure=0&sni=spiderpanel-production-a39f.up.railway.app&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
-    "vless://f841ef04-2cc1-4b9d-b6c5-b05224128ede@23.237.193.66:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=apkav-1.bosx.net&type=ws&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://097bb22a-1303-4478-b9e8-ffc84ea17e83@23.237.193.66:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=apkav-1.bosx.net&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://097bb22a-1303-4478-b9e8-ffc84ea17e83@23.237.193.66:8443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fconnect&security=tls&sni=apkav-1.bosx.net&type=ws&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf@spiderpanel-production-a39f.up.railway.app:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&path=%2Fws%2F99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
+    "vless://99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf@spiderpanel-production-a39f.up.railway.app:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&path=%2Fws%2F99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
+    "vless://99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf@spiderpanel-production-a39f.up.railway.app:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&path=%2Fws%2F99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
+    "vless://99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf@spiderpanel-production-a39f.up.railway.app:443?path=%2Fws%2F99f02f61-f4c2-44ee-b1bb-d4b0a757c9bf&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-a39f.up.railway.app&type=ws&allowInsecure=0&sni=spiderpanel-production-a39f.up.railway.app&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
   ]
 }
