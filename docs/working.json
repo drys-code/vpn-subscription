@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787666774,
-  "updated_utc": "2026-08-25T14:06:14Z",
+  "updated_unix": 1787669944,
+  "updated_utc": "2026-08-25T14:59:04Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 85,
   "alive_total": 85,
   "alive_filtered": 4,
   "servers": [
+    "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=nameless-poetry-cc33.268-910.workers.dev&sni=deepl.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D",
+    "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=false&type=ws&headerType=none&host=nameless-poetry-cc33.268-910.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D",
     "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=false&type=ws&headerType=none&host=nameless-poetry-cc33.268-910.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D",
-    "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=false&type=ws&headerType=none&host=nameless-poetry-cc33.268-910.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D",
-    "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=false&type=ws&headerType=none&host=nameless-poetry-cc33.268-910.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D",
-    "vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=false&type=ws&headerType=none&host=nameless-poetry-cc33.268-910.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D"
+    "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@chatgpt.com:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Limburg%20an%20der%20Lahn%20%7C%20%5BBL%5D"
   ]
 }
