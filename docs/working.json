@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787695019,
-  "updated_utc": "2026-08-25T21:56:59Z",
+  "updated_unix": 1787696706,
+  "updated_utc": "2026-08-25T22:25:06Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 108,
   "alive_total": 108,
   "alive_filtered": 4,
   "servers": [
-    "vless://9ba0bd53-c297-4fba-8c0e-713c1778de8f@64.49.12.242:25111?encryption=none&pbk=_1SPn5Stz2M6OrrTcWNXljvui10kMXkVcfplA7oLHV8&security=reality&sid=32e147e776c7e1b4&sni=proxy11.h1guro.ovh&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Liberty%20Lake%20%7C%20%5BBL%5D",
     "vless://9ba0bd53-c297-4fba-8c0e-713c1778de8f@64.49.12.242:25111?encryption=none&pbk=_1SPn5Stz2M6OrrTcWNXljvui10kMXkVcfplA7oLHV8&security=reality&sid=32e147e776c7e1b4&sni=proxy11.h1guro.ovh&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Liberty%20Lake%20%7C%20%5BBL%5D",
-    "vless://b2dbc58c-3a92-448f-aa95-6c8fdfffb282@109.169.85.138:443?encryption=none&flow=xtls-rprx-vision&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&security=reality&sid=1dc6d8a2045a7c9d&sni=slashdot.org&type=tcp&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D",
+    "vless://9ba0bd53-c297-4fba-8c0e-713c1778de8f@64.49.12.242:25111?encryption=none&pbk=_1SPn5Stz2M6OrrTcWNXljvui10kMXkVcfplA7oLHV8&security=reality&sid=32e147e776c7e1b4&sni=proxy11.h1guro.ovh&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Liberty%20Lake%20%7C%20%5BBL%5D",
+    "vless://b2dbc58c-3a92-448f-aa95-6c8fdfffb282@109.169.85.138:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&security=reality&sid=1dc6d8a2045a7c9d&sni=slashdot.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D",
     "vless://10000025-9365-7667-f000-0943b428a020@78.129.237.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cWVHOLypYFtzpvgldlZ5h1fhOTptEC-ZQI7pFb7ok0c&security=reality&sid=5e11872495085a8f&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D"
   ]
 }
