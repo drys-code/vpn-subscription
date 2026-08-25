@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787638636,
-  "updated_utc": "2026-08-25T06:17:16Z",
+  "updated_unix": 1787641946,
+  "updated_utc": "2026-08-25T07:12:26Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 146,
-  "alive_total": 144,
+  "checked": 144,
+  "alive_total": 142,
   "alive_filtered": 4,
   "servers": [
-    "vless://b85c8be2-3109-4b8a-aa82-f0d8fe06f5ae@anydesk.com:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=young-dust-b8d9.31-8ba.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://da78f96e-01d3-4289-9d0b-fbbe3f0a5472@chatgpt.com:443?encryption=none&security=tls&sni=aio.zxcore.biz.id&insecure=0&allowInsecure=0&type=ws&host=aio.zxcore.biz.id&path=/aioproxybot/124.153.168.248-50001#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://817dfc1d-07fe-48b2-973a-0aca1c5c6e9d@151.101.111.69:443?alpn=h3&encryption=none&fp=firefox&host=ovd13.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
     "vless://817dfc1d-07fe-48b2-973a-0aca1c5c6e9d@151.101.111.69:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd13.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://817dfc1d-07fe-48b2-973a-0aca1c5c6e9d@151.101.111.69:443?alpn=h3&encryption=none&fp=firefox&host=ovd13.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?host=silent-cake-fb8d.69-a76.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net+&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@themeforest.net:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=small-wave-9851.441-57f.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D"
   ]
 }
