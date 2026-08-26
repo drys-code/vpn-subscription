@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787743390,
-  "updated_utc": "2026-08-26T11:23:10Z",
+  "updated_unix": 1787745267,
+  "updated_utc": "2026-08-26T11:54:27Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 87,
   "alive_total": 87,
   "alive_filtered": 4,
   "servers": [
-    "vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
     "vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@91.193.58.201:2087?mode=auto&type=xhttp&encryption=none&security=tls&insecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&sni=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&allowInsecure=0&host=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
     "vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@91.193.58.201:2087?mode=auto&type=xhttp&encryption=none&security=tls&insecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&sni=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&allowInsecure=0&host=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-    "vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@91.193.58.201:2087?mode=auto&type=xhttp&encryption=none&security=tls&insecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&sni=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&allowInsecure=0&host=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D"
+    "vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@91.193.58.201:2087?mode=auto&type=xhttp&encryption=none&security=tls&insecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&sni=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&allowInsecure=0&host=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D"
   ]
 }
