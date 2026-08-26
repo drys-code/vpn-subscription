@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787759895,
-  "updated_utc": "2026-08-26T15:58:15Z",
+  "updated_unix": 1787762951,
+  "updated_utc": "2026-08-26T16:49:11Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 114,
-  "alive_total": 110,
+  "checked": 111,
+  "alive_total": 111,
   "alive_filtered": 4,
   "servers": [
-    "vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&security=tls&sni=shalana.xyz&insecure=0&allowInsecure=0&type=ws&host=shalana.xyz&path=%2Fshalana#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://a3cd0fea-482b-4b67-be46-de041690b657@104.17.178.154:8880?encryption=none&type=ws&host=solitary-firefly-e2dc.495-398.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@104.27.0.121:443?encryption=none&type=xhttp&mode=auto&host=b33ec4a1s226.fuhuovps.xyz&path=%2Fe0d9cd6ea04ecda957b4ca0869e038af&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&sni=b33ec4a1s226.fuhuovps.xyz#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ph%C3%BAc%20%C4%90i%E1%BB%81n%20%28Ph%C3%BA%20Di%E1%BB%85n%29%20%7C%20%5BBL%5D",
-    "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@104.21.207.202:443?security=tls&type=xhttp&path=/e0d9cd6ea04ecda957b4ca0869e038af&host=b33ec4a1s226.fuhuovps.xyz&packetEncoding=xudp&alpn=h2,http/1.1&sni=b33ec4a1s226.fuhuovps.xyz&fp=ios&encryption=none#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ph%C3%BAc%20%C4%90i%E1%BB%81n%20%28Ph%C3%BA%20Di%E1%BB%85n%29%20%7C%20%5BBL%5D"
+    "vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@ez-abcc2c.igunsjgjnfgn.workers.dev:2053?type=ws&security=tls&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@ez-abcc2c.igunsjgjnfgn.workers.dev:2096?type=ws&security=tls&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://b3a9b22a-bf5c-476f-9eb7-224c42294fcf@cctvhikvision.center:2052?security=none&type=ws&path=%2F%40BlueKnight_net--%40BlueKnight_net&host=uwu.blueknightnet.qzz.io&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&type=ws&host=shalana.xyz&path=%2Fshalana&security=tls&fp=chrome&sni=shalana.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
