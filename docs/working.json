@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787720942,
-  "updated_utc": "2026-08-26T05:09:02Z",
+  "updated_unix": 1787723286,
+  "updated_utc": "2026-08-26T05:48:06Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 92,
   "alive_total": 92,
   "alive_filtered": 4,
   "servers": [
-    "vless://424fa201-3f94-479e-b533-d5257cf9a207@45.131.208.4:80?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?encryption=none&security=tls&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&insecure=0&allowInsecure=0&type=ws&host=026.electrocellco-cf-026.workers.dev&path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
     "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?security=&encryption=none&host=vms.lifetime59.workers.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&path=/m10d8k6Ny5XLimc0?ed=2560&host=worker3.dawejoy4544.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
+    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&path=/m10d8k6Ny5XLimc0?ed=2560&host=worker3.dawejoy4544.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://424fa201-3f94-479e-b533-d5257cf9a207@45.131.208.4:80?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
+    "vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?encryption=none&security=tls&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&insecure=0&allowInsecure=0&type=ws&host=026.electrocellco-cf-026.workers.dev&path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
