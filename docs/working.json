@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787747924,
-  "updated_utc": "2026-08-26T12:38:44Z",
+  "updated_unix": 1787751523,
+  "updated_utc": "2026-08-26T13:38:43Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 84,
-  "alive_total": 79,
+  "checked": 120,
+  "alive_total": 120,
   "alive_filtered": 4,
   "servers": [
-    "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F%3Fed&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@91.193.58.201:2087?mode=auto&type=xhttp&encryption=none&security=tls&insecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&sni=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&allowInsecure=0&host=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-    "vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@91.193.58.201:2087?mode=auto&type=xhttp&encryption=none&security=tls&insecure=0&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&sni=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&allowInsecure=0&host=shop.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
+    "vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&security=tls&sni=shalana.xyz&insecure=0&allowInsecure=0&type=ws&host=shalana.xyz&path=%2Fshalana#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&type=ws&host=shalana.xyz&path=%2Fshalana&security=tls&fp=chrome&sni=shalana.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://a3cd0fea-482b-4b67-be46-de041690b657@104.17.178.154:8880?encryption=none&type=ws&host=solitary-firefly-e2dc.495-398.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@104.27.0.121:443?encryption=none&type=xhttp&mode=auto&host=b33ec4a1s226.fuhuovps.xyz&path=%2Fe0d9cd6ea04ecda957b4ca0869e038af&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&sni=b33ec4a1s226.fuhuovps.xyz#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ph%C3%BAc%20%C4%90i%E1%BB%81n%20%28Ph%C3%BA%20Di%E1%BB%85n%29%20%7C%20%5BBL%5D"
   ]
 }
