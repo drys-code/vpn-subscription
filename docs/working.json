@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787768918,
-  "updated_utc": "2026-08-26T18:28:38Z",
+  "updated_unix": 1787776488,
+  "updated_utc": "2026-08-26T20:34:48Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 141,
-  "alive_total": 139,
+  "alive_total": 141,
   "alive_filtered": 4,
   "servers": [
-    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
-    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=cichar.global.ssl.fastly.net&path=%2F&mode=auto&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=cichar.global.ssl.fastly.net&path=%2F&mode=auto&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=cichar.global.ssl.fastly.net&path=%2F&mode=auto&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=cichar.global.ssl.fastly.net&path=%2F&mode=auto&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
