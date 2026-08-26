@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787762951,
-  "updated_utc": "2026-08-26T16:49:11Z",
+  "updated_unix": 1787768918,
+  "updated_utc": "2026-08-26T18:28:38Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 111,
-  "alive_total": 111,
+  "checked": 141,
+  "alive_total": 139,
   "alive_filtered": 4,
   "servers": [
-    "vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@ez-abcc2c.igunsjgjnfgn.workers.dev:2053?type=ws&security=tls&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@ez-abcc2c.igunsjgjnfgn.workers.dev:2096?type=ws&security=tls&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://b3a9b22a-bf5c-476f-9eb7-224c42294fcf@cctvhikvision.center:2052?security=none&type=ws&path=%2F%40BlueKnight_net--%40BlueKnight_net&host=uwu.blueknightnet.qzz.io&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?encryption=none&type=ws&host=shalana.xyz&path=%2Fshalana&security=tls&fp=chrome&sni=shalana.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=panchar.global.ssl.fastly.net&path=%2F&mode=auto&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@151.101.56.7:443?encryption=none&security=tls&sni=global.fastly.com&alpn=h2&type=xhttp&host=cichar.global.ssl.fastly.net&path=%2F&mode=auto&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
