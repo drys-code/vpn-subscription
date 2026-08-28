@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787860672,
-  "updated_utc": "2026-08-27T19:57:52Z",
+  "updated_unix": 1787889881,
+  "updated_utc": "2026-08-28T04:04:41Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 114,
-  "alive_total": 112,
+  "checked": 34,
+  "alive_total": 34,
   "alive_filtered": 4,
   "servers": [
-    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&host=worker3.dawejoy4544.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&path=/m10d8k6Ny5XLimc0?ed=2560&host=worker3.dawejoy4544.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://2f142ede-d555-4ceb-b005-7df31b484be3@anydesk.com:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=bitter-pine-001c.450-e0e.workers.dev&alpn=http%2F1.1&headerType=none&fp=android#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Chuncheon-si%20%7C%20%5BBL%5D",
-    "vless://2f142ede-d555-4ceb-b005-7df31b484be3@anydesk.com:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=bitter-pine-001c.450-e0e.workers.dev&alpn=http%2F1.1&headerType=none&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Chuncheon-si%20%7C%20%5BBL%5D"
+    "vless://b07fa744-dd60-4a35-afbe-bd84e2dc86af@193.227.99.253:2096?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=tf.monister.ir&mode=auto&sni=tf.monister.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://b07fa744-dd60-4a35-afbe-bd84e2dc86af@193.227.99.253:2096?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=tf.monister.ir&mode=auto&sni=tf.monister.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://b07fa744-dd60-4a35-afbe-bd84e2dc86af@193.227.99.253:2096?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=tf.monister.ir&mode=auto&sni=tf.monister.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://b07fa744-dd60-4a35-afbe-bd84e2dc86af@193.227.99.253:2096?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=tf.monister.ir&mode=auto&sni=tf.monister.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
