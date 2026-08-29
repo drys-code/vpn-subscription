@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1787934827,
-  "updated_utc": "2026-08-28T16:33:47Z",
+  "updated_unix": 1787963989,
+  "updated_utc": "2026-08-29T00:39:49Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 102,
-  "alive_total": 88,
+  "checked": 77,
+  "alive_total": 76,
   "alive_filtered": 4,
   "servers": [
-    "vless://2497ba12-ce59-49e0-80ed-0dbc6010da58@199.232.23.110:443?alpn=h3&encryption=none&host=ovd10.global.ssl.fastly.net&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2497ba12-ce59-49e0-80ed-0dbc6010da58@199.232.23.110:443?alpn=h3&encryption=none&host=ovd10.global.ssl.fastly.net&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2497ba12-ce59-49e0-80ed-0dbc6010da58@199.232.23.110:443?alpn=h3&encryption=none&host=ovd10.global.ssl.fastly.net&path=%2F&security=tls&sni=accounts.fastly.com&type=xhttp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://ed452b41-5954-457f-914f-9402a27be66a@199.232.78.150:80?type=ws&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
+    "vless://65e294c6-9733-40cd-ade4-9bcf4017a1bd@cysecy12.global.ssl.fastly.net:80?security=&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://3b4fb8d7-e166-93b1-55e5-076250c77a19@69.46.46.100:443?path=%2Fws%2F3b4fb8d7-e166-93b1-55e5-076250c77a19&security=tls&alpn=http%2F1.1&encryption=none&host=hidden-glacier-c2dd-production.up.railway.app&type=ws&sni=hidden-glacier-c2dd-production.up.railway.app&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Schiphol-Rijk%20%7C%20%5BBL%5D",
+    "vless://3b4fb8d7-e166-93b1-55e5-076250c77a19@69.46.46.100:443?path=%2Fws%2F3b4fb8d7-e166-93b1-55e5-076250c77a19&security=tls&alpn=http%2F1.1&encryption=none&host=hidden-glacier-c2dd-production.up.railway.app&type=ws&sni=hidden-glacier-c2dd-production.up.railway.app&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Schiphol-Rijk%20%7C%20%5BBL%5D",
+    "vless://15a8fe5f-d2f0-8be0-8c28-49a17ad3f6f1@69.46.46.49:443?path=%2Fws%2F15a8fe5f-d2f0-8be0-8c28-49a17ad3f6f1&security=tls&alpn=http%2F1.1&encryption=none&host=azure-atlas-eba6-production.up.railway.app&type=ws&sni=azure-atlas-eba6-production.up.railway.app&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D"
   ]
 }
