@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788032774,
-  "updated_utc": "2026-08-29T19:46:14Z",
+  "updated_unix": 1788040796,
+  "updated_utc": "2026-08-29T21:59:56Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 122,
-  "alive_total": 115,
+  "checked": 93,
+  "alive_total": 83,
   "alive_filtered": 4,
   "servers": [
-    "vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?encryption=none&flow=xtls-rprx-vision&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&security=reality&sid=f15240e5244c7ba8&sni=www.google.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://0a2dde28-70da-4863-a06f-35d007d94d35@192.166.82.74:8443?encryption=none&flow=xtls-rprx-vision&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&security=reality&sid=f15240e5244c7ba8&sni=www.google.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://0a2dde28-70da-4863-a06f-35d007d94d35@192.166.82.74:8443?encryption=none&flow=xtls-rprx-vision&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&security=reality&sid=f15240e5244c7ba8&sni=www.google.com&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?encryption=none&flow=xtls-rprx-vision&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&security=reality&sid=f15240e5244c7ba8&sni=www.google.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@time.is:443?encryption=none&security=tls&sni=yf2.yifangg.de5.net&type=ws&host=yf2.yifangg.de5.net&path=%2Fproxyip%3Dkr.william.us.ci&flow=&alpn=h3&allowInsecure=0&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@time.is:443?encryption=none&security=tls&sni=yf2.yifangg.de5.net&type=ws&host=yf2.yifangg.de5.net&path=%2Fproxyip%3Dkr.william.us.ci&flow=&alpn=h3&allowInsecure=0&fp=random#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@time.is:443?encryption=none&security=tls&sni=yf2.yifangg.de5.net&type=ws&host=yf2.yifangg.de5.net&path=%2Fproxyip%3Dkr.william.us.ci&flow=&alpn=h3&allowInsecure=0&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@time.is:443?encryption=none&security=tls&sni=yf2.yifangg.de5.net&type=ws&host=yf2.yifangg.de5.net&path=%2Fproxyip%3Dkr.william.us.ci&flow=&alpn=h3&allowInsecure=0&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
