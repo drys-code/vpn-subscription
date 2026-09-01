@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788240011,
-  "updated_utc": "2026-09-01T05:20:11Z",
+  "updated_unix": 1788257850,
+  "updated_utc": "2026-09-01T10:17:30Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 94,
-  "alive_total": 92,
+  "checked": 82,
+  "alive_total": 66,
   "alive_filtered": 4,
   "servers": [
-    "vless://50e364e7-bc88-49bd-b8b5-e5d8bb0ed386@ezaccess1-sulgx-ezaccess1-86c3.up.railway.app:443?path=%2Fws%2F50e364e7-bc88-49bd-b8b5-e5d8bb0ed386&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-sulgx-ezaccess1-86c3.up.railway.app&type=ws&allowInsecure=0&sni=ezaccess1-sulgx-ezaccess1-86c3.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D",
-    "vless://2c3553a1-ec44-41b8-a116-5e25989e38a2@tsa-production-7e4a.up.railway.app:443?encryption=none&security=tls&type=ws&host=tsa-production-7e4a.up.railway.app&path=%2Fvl-ws&sni=tsa-production-7e4a.up.railway.app&alpn=http%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Schiphol-Rijk%20%7C%20%5BBL%5D",
-    "vless://2c3553a1-ec44-41b8-a116-5e25989e38a2@tsa-production-7e4a.up.railway.app:443?encryption=none&security=tls&type=ws&host=tsa-production-7e4a.up.railway.app&path=%2Fvl-ws&sni=tsa-production-7e4a.up.railway.app&alpn=http%2F1.1&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Schiphol-Rijk%20%7C%20%5BBL%5D",
-    "vless://50e364e7-bc88-49bd-b8b5-e5d8bb0ed386@ezaccess1-sulgx-ezaccess1-86c3.up.railway.app:443?path=%2Fws%2F50e364e7-bc88-49bd-b8b5-e5d8bb0ed386&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-sulgx-ezaccess1-86c3.up.railway.app&type=ws&allowInsecure=0&sni=ezaccess1-sulgx-ezaccess1-86c3.up.railway.app&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D"
+    "vless://8d6eed5f-f27a-45b8-8645-a3a955176dc3@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://bb1c77ec-4ab6-4ecd-9a18-8d2622c00178@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://bb1c77ec-4ab6-4ecd-9a18-8d2622c00178@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://8d6eed5f-f27a-45b8-8645-a3a955176dc3@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
