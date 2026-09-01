@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788274651,
-  "updated_utc": "2026-09-01T14:57:31Z",
+  "updated_unix": 1788286238,
+  "updated_utc": "2026-09-01T18:10:38Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 95,
-  "alive_total": 85,
+  "checked": 84,
+  "alive_total": 82,
   "alive_filtered": 4,
   "servers": [
-    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
+    "vless://ec15515b-3e5b-4cc1-8882-c4375bace7f9@spider-panel-production-474a.up.railway.app:443?encryption=none&security=tls&sni=spider-panel-production-474a.up.railway.app&alpn=http%2F1.1&type=ws&host=spider-panel-production-474a.up.railway.app&path=%2Fws%2Fec15515b-3e5b-4cc1-8882-c4375bace7f9&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://ec15515b-3e5b-4cc1-8882-c4375bace7f9@spider-panel-production-474a.up.railway.app:443?encryption=none&security=tls&sni=spider-panel-production-474a.up.railway.app&alpn=http%2F1.1&type=ws&host=spider-panel-production-474a.up.railway.app&path=%2Fws%2Fec15515b-3e5b-4cc1-8882-c4375bace7f9&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://ec15515b-3e5b-4cc1-8882-c4375bace7f9@spider-panel-production-474a.up.railway.app:443?encryption=none&security=tls&sni=spider-panel-production-474a.up.railway.app&alpn=http%2F1.1&type=ws&host=spider-panel-production-474a.up.railway.app&path=%2Fws%2Fec15515b-3e5b-4cc1-8882-c4375bace7f9&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://ec15515b-3e5b-4cc1-8882-c4375bace7f9@spider-panel-production-474a.up.railway.app:443?encryption=none&security=tls&sni=spider-panel-production-474a.up.railway.app&alpn=http%2F1.1&type=ws&host=spider-panel-production-474a.up.railway.app&path=%2Fws%2Fec15515b-3e5b-4cc1-8882-c4375bace7f9&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D"
   ]
 }
