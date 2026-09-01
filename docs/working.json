@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788257850,
-  "updated_utc": "2026-09-01T10:17:30Z",
+  "updated_unix": 1788274651,
+  "updated_utc": "2026-09-01T14:57:31Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 82,
-  "alive_total": 66,
+  "checked": 95,
+  "alive_total": 85,
   "alive_filtered": 4,
   "servers": [
-    "vless://8d6eed5f-f27a-45b8-8645-a3a955176dc3@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://bb1c77ec-4ab6-4ecd-9a18-8d2622c00178@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://bb1c77ec-4ab6-4ecd-9a18-8d2622c00178@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://8d6eed5f-f27a-45b8-8645-a3a955176dc3@199.232.86.97:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&alpn=h3&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
