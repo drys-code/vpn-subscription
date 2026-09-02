@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788327804,
-  "updated_utc": "2026-09-02T05:43:24Z",
+  "updated_unix": 1788342994,
+  "updated_utc": "2026-09-02T09:56:34Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 94,
-  "alive_total": 93,
+  "alive_total": 82,
   "alive_filtered": 4,
   "servers": [
-    "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
     "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
-    "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
-    "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
+    "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
+    "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
+    "vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&type=ws&allowInsecure=0&sni=norl-production.up.railway.app&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
   ]
 }
