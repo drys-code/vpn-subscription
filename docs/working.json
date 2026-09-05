@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788612927,
-  "updated_utc": "2026-09-05T12:55:27Z",
+  "updated_unix": 1788623070,
+  "updated_utc": "2026-09-05T15:44:30Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 77,
-  "alive_total": 77,
+  "checked": 48,
+  "alive_total": 47,
   "alive_filtered": 4,
   "servers": [
-    "vless://fcea1d1b-4e44-4e19-ab8f-d3ae8bbddeae@199.232.98.12:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh6.global.ssl.fastly.net&path=%2F&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://fcea1d1b-4e44-4e19-ab8f-d3ae8bbddeae@199.232.98.12:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh6.global.ssl.fastly.net&path=%2F&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://fcea1d1b-4e44-4e19-ab8f-d3ae8bbddeae@199.232.98.12:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh6.global.ssl.fastly.net&path=%2F&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://fcea1d1b-4e44-4e19-ab8f-d3ae8bbddeae@199.232.98.12:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh6.global.ssl.fastly.net&path=%2F&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://a1483396-19e9-42a1-a496-d2d1568ff868@104.17.19.180:2087?type=ws&security=tls&encryption=none&sni=sandy-garden-c907.mdzx42e3uins.workers.dev&path=%2F7a10d47be3f9&host=sandy-garden-c907.mdzx42e3uins.workers.dev&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://a1483396-19e9-42a1-a496-d2d1568ff868@104.17.19.180:2087?type=ws&security=tls&encryption=none&sni=sandy-garden-c907.mdzx42e3uins.workers.dev&path=%2F7a10d47be3f9&host=sandy-garden-c907.mdzx42e3uins.workers.dev&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?fp=ios&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
