@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788739691,
-  "updated_utc": "2026-09-07T00:08:11Z",
+  "updated_unix": 1788755473,
+  "updated_utc": "2026-09-07T04:31:13Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 75,
-  "alive_total": 73,
+  "checked": 112,
+  "alive_total": 101,
   "alive_filtered": 4,
   "servers": [
-    "vless://9aae6e95-7fdf-4057-2d79-ed428cfa331e@69.46.46.35:443?path=/ws/9aae6e95-7fdf-4057-2d79-ed428cfa331e&security=tls&alpn=http/1.1&encryption=none&host=willow-voyager-3a86-production.up.railway.app&fp=chrome&type=ws&sni=willow-voyager-3a86-production.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Schiphol-Rijk%20%7C%20%5BBL%5D",
-    "vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev&allowInsecure=0&insecure=0&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
     "vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&fp=chrome&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev&allowInsecure=0&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
-    "vless://bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f@69.46.46.31:443?path=/ws/bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f&security=tls&alpn=http/1.1&encryption=none&host=golden-harbor-6f04-production.up.railway.app&fp=chrome&type=ws&sni=golden-harbor-6f04-production.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D"
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev&allowInsecure=0&insecure=0&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev&allowInsecure=0&insecure=0&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
+    "vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&sni=cfvvv-ev1.pages.dev&path=%2F&host=cfvvv-ev1.pages.dev&allowInsecure=0&insecure=0&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D"
   ]
 }
