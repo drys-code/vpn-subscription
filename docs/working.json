@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788888414,
-  "updated_utc": "2026-09-08T17:26:54Z",
+  "updated_unix": 1788897890,
+  "updated_utc": "2026-09-08T20:04:50Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 37,
-  "alive_total": 35,
+  "checked": 26,
+  "alive_total": 26,
   "alive_filtered": 4,
   "servers": [
-    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://c5345419-7636-458b-b411-e4f949e65d0d@stanngv2-production-c9a4.up.railway.app:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stanngv2-production-c9a4.up.railway.app&type=ws&allowInsecure=0&sni=stanngv2-production-c9a4.up.railway.app&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://c5345419-7636-458b-b411-e4f949e65d0d@stanngv2-production-c9a4.up.railway.app:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stanngv2-production-c9a4.up.railway.app&type=ws&allowInsecure=0&sni=stanngv2-production-c9a4.up.railway.app&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://c5345419-7636-458b-b411-e4f949e65d0d@stanngv2-production-c9a4.up.railway.app:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stanngv2-production-c9a4.up.railway.app&type=ws&allowInsecure=0&sni=stanngv2-production-c9a4.up.railway.app&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D",
+    "vless://c5345419-7636-458b-b411-e4f949e65d0d@stanngv2-production-c9a4.up.railway.app:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stanngv2-production-c9a4.up.railway.app&type=ws&allowInsecure=0&sni=stanngv2-production-c9a4.up.railway.app&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Reston%20%7C%20%5BBL%5D"
   ]
 }
