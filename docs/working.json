@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788874424,
-  "updated_utc": "2026-09-08T13:33:44Z",
+  "updated_unix": 1788888414,
+  "updated_utc": "2026-09-08T17:26:54Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 32,
-  "alive_total": 29,
+  "checked": 37,
+  "alive_total": 35,
   "alive_filtered": 4,
   "servers": [
-    "vless://709403bb-9063-4500-acf6-ee409c225114@189.74.114.130:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypotok.cc&type=tcp&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D",
-    "vless://709403bb-9063-4500-acf6-ee409c225114@189.74.114.130:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypotok.cc&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D",
-    "vless://709403bb-9063-4500-acf6-ee409c225114@189.74.114.130:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypotok.cc&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D",
-    "vless://709403bb-9063-4500-acf6-ee409c225114@189.74.114.130:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypotok.cc&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D"
+    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@185.173.146.146:443?encryption=none&path=%2Fapi%2Fv2%2Fupdates&pbk=dgb5PWn2nAQQYin1kbCGxaHyOL2XtA_Bx671i-Dfq08&security=reality&sni=sun.ai-promt.cloud&type=xhttp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
