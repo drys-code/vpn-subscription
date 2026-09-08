@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1788826557,
-  "updated_utc": "2026-09-08T00:15:57Z",
+  "updated_unix": 1788842661,
+  "updated_utc": "2026-09-08T04:44:21Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 78,
-  "alive_total": 73,
+  "alive_total": 74,
   "alive_filtered": 4,
   "servers": [
-    "vless://f6d5ade7-1da7-4b9a-af00-e80e57e21487@151.101.56.6:80?mode=auto&path=/&security=none&encryption=none&host=ky9ra.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D",
     "vless://7e89c315-6436-4800-e287-c16d26d407a8@193.227.99.253:2053?encryption=none&type=xhttp&mode=auto&host=mind.esmahdi9.com&path=%2F%40v2_line&security=tls&sni=mind.esmahdi9.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://7e89c315-6436-4800-e287-c16d26d407a8@193.227.99.253:2053?encryption=none&type=xhttp&mode=auto&host=mind.esmahdi9.com&path=%2F%40v2_line&security=tls&sni=mind.esmahdi9.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://f6d5ade7-1da7-4b9a-af00-e80e57e21487@151.101.56.6:80?mode=auto&path=/&security=none&encryption=none&host=ky9ra.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D",
+    "vless://7e89c315-6436-4800-e287-c16d26d407a8@193.227.99.253:2053?encryption=none&type=xhttp&mode=auto&host=mind.esmahdi9.com&path=%2F%40v2_line&security=tls&sni=mind.esmahdi9.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
     "vless://7e89c315-6436-4800-e287-c16d26d407a8@193.227.99.253:2053?encryption=none&type=xhttp&mode=auto&host=mind.esmahdi9.com&path=%2F%40v2_line&security=tls&sni=mind.esmahdi9.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
