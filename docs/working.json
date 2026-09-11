@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789127118,
-  "updated_utc": "2026-09-11T11:45:18Z",
+  "updated_unix": 1789139677,
+  "updated_utc": "2026-09-11T15:14:37Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 102,
-  "alive_total": 97,
+  "checked": 20,
+  "alive_total": 19,
   "alive_filtered": 4,
   "servers": [
-    "vless://2a7793b4-a70f-42a3-aecc-1082da7a933d@151.101.109.28:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd13.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2a7793b4-a70f-42a3-aecc-1082da7a933d@151.101.109.28:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accounts.fastly.com&alpn=h3&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2a7793b4-a70f-42a3-aecc-1082da7a933d@151.101.109.28:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accounts.fastly.com&alpn=h3&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2a7793b4-a70f-42a3-aecc-1082da7a933d@151.101.109.28:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accounts.fastly.com&alpn=h3&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://bbbad538-910a-8972-278a-718093dc9980@179.253.229.57:443?encryption=none&flow=xtls-rprx-vision&pbk=mqkgtWokqxMeXDS3jetPqct3Dcll6242nOveJrO9Dnk&security=reality&sid=b7a1a235&sni=d2c.aws.amazon.com&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
+    "vless://bbbad538-910a-8972-278a-718093dc9980@179.253.229.57:443?encryption=none&flow=xtls-rprx-vision&pbk=mqkgtWokqxMeXDS3jetPqct3Dcll6242nOveJrO9Dnk&security=reality&sid=b7a1a235&sni=d2c.aws.amazon.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
+    "vless://bbbad538-910a-8972-278a-718093dc9980@179.253.229.57:443?encryption=none&flow=xtls-rprx-vision&pbk=mqkgtWokqxMeXDS3jetPqct3Dcll6242nOveJrO9Dnk&security=reality&sid=b7a1a235&sni=d2c.aws.amazon.com&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D",
+    "vless://bbbad538-910a-8972-278a-718093dc9980@179.253.229.57:443?encryption=none&flow=xtls-rprx-vision&pbk=mqkgtWokqxMeXDS3jetPqct3Dcll6242nOveJrO9Dnk&security=reality&sid=b7a1a235&sni=d2c.aws.amazon.com&type=tcp&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D"
   ]
 }
