@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789151785,
-  "updated_utc": "2026-09-11T18:36:25Z",
+  "updated_unix": 1789161348,
+  "updated_utc": "2026-09-11T21:15:48Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 45,
-  "alive_total": 38,
+  "checked": 94,
+  "alive_total": 89,
   "alive_filtered": 4,
   "servers": [
-    "vless://e9fc2133-5d81-4036-ae52-4cb0540df294@151.101.109.32:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh3.global.ssl.fastly.net&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://e9fc2133-5d81-4036-ae52-4cb0540df294@151.101.109.32:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh3.global.ssl.fastly.net&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://e9fc2133-5d81-4036-ae52-4cb0540df294@151.101.109.32:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh3.global.ssl.fastly.net&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://e9fc2133-5d81-4036-ae52-4cb0540df294@151.101.109.32:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=oh3.global.ssl.fastly.net&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=%2Fcs&host=asia.csmasterofficial.store&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=%2Fcs&host=asia.csmasterofficial.store&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=%2Fcs&host=asia.csmasterofficial.store&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=%2Fcs&host=asia.csmasterofficial.store&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
