@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789192309,
-  "updated_utc": "2026-09-12T05:51:49Z",
+  "updated_unix": 1789206892,
+  "updated_utc": "2026-09-12T09:54:52Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 128,
-  "alive_total": 123,
+  "checked": 84,
+  "alive_total": 77,
   "alive_filtered": 4,
   "servers": [
-    "vless://efb9433e-fad1-41af-a543-b62ffbe84574@199.232.237.245:80?encryption=none&type=ws&path=%2F&host=Tirandazl.global.ssl.fastly.net&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D",
-    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?path=%2Fcs&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&alpn=h2&encryption=none&insecure=0&host=asia.csmasterofficial.store&type=ws&allowInsecure=0&sni=asia.csmasterofficial.store&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=%2Fcs&host=asia.csmasterofficial.store&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=%2Fcs&host=asia.csmasterofficial.store&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.30:8880?security=none&type=ws&host=vms.lifetime23.workers.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.176.30:8880?encryption=none&host=vms.lifetime28.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&host=vms.lifetime07.workers.dev&path=/?ed#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
   ]
 }
