@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789219073,
-  "updated_utc": "2026-09-12T13:17:53Z",
+  "updated_unix": 1789230135,
+  "updated_utc": "2026-09-12T16:22:15Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 93,
-  "alive_total": 86,
+  "checked": 99,
+  "alive_total": 93,
   "alive_filtered": 4,
   "servers": [
-    "vless://02722550-1915-4629-a653-cbe95e594f70@88.216.57.220:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn12usa.goonars.com&sid=6591f200&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D",
-    "vless://02722550-1915-4629-a653-cbe95e594f70@88.216.57.220:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn12usa.goonars.com&sid=6591f200&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D",
-    "vless://02722550-1915-4629-a653-cbe95e594f70@88.216.57.220:443?security=reality&encryption=none&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn12usa.goonars.com&sid=6591f200&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D",
-    "vless://02722550-1915-4629-a653-cbe95e594f70@88.216.57.220:443?security=reality&encryption=none&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn12usa.goonars.com&sid=6591f200&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D"
+    "vless://bb051209-acf7-4655-8a45-8f3d4cd93850@193.148.253.197:443?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.54.56:6443?type=tcp&security=reality&sni=www.samsung.com&pbk=HHz-2xJzux-wn53uLOnSpdjds9rnRZEI7sr6z5hYnis&sid=79245360&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://bd89bec6-43a4-4cf7-9484-d70adeb2853c@5.254.4.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&sni=cdn3-42.taobao.com&fp=ios#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Fujairah%20%7C%20%5BBL%5D",
+    "vless://bd89bec6-43a4-4cf7-9484-d70adeb2853c@5.254.4.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=dc124373ff9327cf&sni=cdn3-42.taobao.com&fp=android#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Fujairah%20%7C%20%5BBL%5D"
   ]
 }
