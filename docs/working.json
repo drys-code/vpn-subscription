@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789394168,
-  "updated_utc": "2026-09-14T13:56:08Z",
+  "updated_unix": 1789412412,
+  "updated_utc": "2026-09-14T19:00:12Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 41,
-  "alive_total": 38,
+  "alive_total": 32,
   "alive_filtered": 4,
   "servers": [
     "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.20:443?encryption=none&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D",
-    "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.20:443?encryption=none&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D",
     "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.20:443?encryption=none&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D",
-    "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.20:443?encryption=none&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D"
+    "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.20:443?encryption=none&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D",
+    "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.20:443?encryption=none&flow=xtls-rprx-vision&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D"
   ]
 }
