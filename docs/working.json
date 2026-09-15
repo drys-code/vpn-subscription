@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789484638,
-  "updated_utc": "2026-09-15T15:03:58Z",
+  "updated_unix": 1789498498,
+  "updated_utc": "2026-09-15T18:54:58Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 78,
-  "alive_total": 78,
+  "checked": 17,
+  "alive_total": 17,
   "alive_filtered": 4,
   "servers": [
-    "vless://50414e45-4c5f-5a45-5553-723a643df685@162.159.91.222:443?path=/stream/PANEL_ZEUS/723a643df685/loc-0&security=tls&encryption=none&host=n3zaxce7u0es.crzl48eiuses.workers.dev&type=ws&sni=n3zaxce7u0es.crzl48eiuses.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://50414e45-4c5f-5a45-5553-709790f5241a@92.53.191.141:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F709790f5241a%2Floc-0&host=d5z10menuavs.9jz95eejuhvs.workers.dev&packetEncoding=xudp&sni=d5z10menuavs.9jz95eejuhvs.workers.dev&encryption=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Cleveland%20%7C%20%5BBL%5D",
-    "vless://50414e45-4c5f-5a45-5553-723a643df685@162.159.91.222:443?path=%2Fstream%2FPANEL_ZEUS%2F723a643df685%2Floc-0&security=tls&encryption=none&host=n3zaxce7u0es.crzl48eiuses.workers.dev&type=ws&sni=n3zaxce7u0es.crzl48eiuses.workers.dev&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://50414e45-4c5f-5a45-5553-723a643df685@162.159.91.222:443?path=%2Fstream%2FPANEL_ZEUS%2F723a643df685%2Floc-0&security=tls&encryption=none&host=n3zaxce7u0es.crzl48eiuses.workers.dev&type=ws&sni=n3zaxce7u0es.crzl48eiuses.workers.dev&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://d636bed9-a49f-7ad3-5278-38c47c392aef@69.46.46.106:443?path=/ws/d636bed9-a49f-7ad3-5278-38c47c392aef&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=soliconf-production-2633.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=soliconf-production-2633.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
+    "vless://056bdf23-ed72-48eb-9a56-83f45965999e@153.76.185.190:3090?type=grpc&security=none&encryption=none&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D",
+    "vless://e0755aab-3f9c-4d27-a643-645a4d2753d3@us-1.gsafevpnapi.com:20270?mode=multi&security=reality&encryption=none&type=tcp&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
+    "vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:20270?fp=qq&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&security=reality&sid=e67d9a00676f15ac&sni=www.yahoo.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
   ]
 }
