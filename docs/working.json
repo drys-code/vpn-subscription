@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789565536,
-  "updated_utc": "2026-09-16T13:32:16Z",
+  "updated_unix": 1789580596,
+  "updated_utc": "2026-09-16T17:43:16Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 66,
-  "alive_total": 65,
+  "checked": 43,
+  "alive_total": 27,
   "alive_filtered": 4,
   "servers": [
-    "vless://e2bcabb9-877e-7820-5426-f6b4403fe6f5@69.46.46.35:443?path=%2Fws%2Fe2bcabb9-877e-7820-5426-f6b4403fe6f5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=solivpn-production-4e4c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=solivpn-production-4e4c.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D",
-    "vless://c5694dc5-39fd-4a92-8430-3837baa522a3@88.216.57.128:443?encryption=none&fp=firefox&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&security=reality&sid=9c2378562188c3cb&sni=usa.superbuba.top&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D",
-    "vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:20270?security=reality&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&type=tcp&headerType=none&host=www.yahoo.com&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://e0755aab-3f9c-4d27-a643-645a4d2753d3@us-1.gsafevpnapi.com:20270?mode=multi&security=reality&encryption=none&type=tcp&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
+    "vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?type=xhttp&security=tls&encryption=none&sni=us.lebedvpn.cc&alpn=h3&path=%2F124c27d64c18&mode=stream-up&fp=chrome&host=us.lebedvpn.cc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D",
+    "vless://bd0b6458-917b-4b84-9c21-66b8699f4795@us-1.gsafevpnapi.com:20270?mode=multi&security=reality&encryption=none&type=tcp&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
+    "vless://1803e6f6-9da1-4b31-8cc5-ffa155771a14@us-1.gsafevpnapi.com:20270?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=ios&sid=e67d9a00676f15ac&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
+    "vless://fee2c73a-d527-4b3f-9d48-0631168d83e8@us-1.gsafevpnapi.com:20270?mode=multi&security=reality&encryption=none&type=tcp&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
   ]
 }
