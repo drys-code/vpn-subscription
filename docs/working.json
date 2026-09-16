@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789580596,
-  "updated_utc": "2026-09-16T17:43:16Z",
+  "updated_unix": 1789590393,
+  "updated_utc": "2026-09-16T20:26:33Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 43,
-  "alive_total": 27,
+  "checked": 101,
+  "alive_total": 101,
   "alive_filtered": 4,
   "servers": [
-    "vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?type=xhttp&security=tls&encryption=none&sni=us.lebedvpn.cc&alpn=h3&path=%2F124c27d64c18&mode=stream-up&fp=chrome&host=us.lebedvpn.cc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D",
-    "vless://bd0b6458-917b-4b84-9c21-66b8699f4795@us-1.gsafevpnapi.com:20270?mode=multi&security=reality&encryption=none&type=tcp&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://1803e6f6-9da1-4b31-8cc5-ffa155771a14@us-1.gsafevpnapi.com:20270?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=ios&sid=e67d9a00676f15ac&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://fee2c73a-d527-4b3f-9d48-0631168d83e8@us-1.gsafevpnapi.com:20270?mode=multi&security=reality&encryption=none&type=tcp&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&servername=www.yahoo.com&spx=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
+    "vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?type=xhttp&security=tls&encryption=none&sni=us.lebedvpn.cc&alpn=h3&path=%2F124c27d64c18&mode=stream-up&host=us.lebedvpn.cc&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D",
+    "vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?type=xhttp&security=tls&encryption=none&sni=us.lebedvpn.cc&alpn=h3&path=%2F124c27d64c18&mode=stream-up&host=us.lebedvpn.cc&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D",
+    "vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?type=xhttp&security=tls&encryption=none&sni=us.lebedvpn.cc&alpn=h3&path=%2F124c27d64c18&mode=stream-up&host=us.lebedvpn.cc&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D",
+    "vless://eaf5b0da-abf3-4128-af9c-93fc11344ab9@147.45.60.91:443?type=xhttp&security=tls&encryption=none&sni=us.lebedvpn.cc&alpn=h3&path=%2F124c27d64c18&mode=stream-up&host=us.lebedvpn.cc&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D"
   ]
 }
