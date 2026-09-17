@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789646173,
-  "updated_utc": "2026-09-17T11:56:13Z",
+  "updated_unix": 1789661410,
+  "updated_utc": "2026-09-17T16:10:10Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 89,
-  "alive_total": 85,
+  "checked": 67,
+  "alive_total": 67,
   "alive_filtered": 4,
   "servers": [
-    "vless://807cd1e0-f4ce-4785-b7a3-cde0c1614b8d@104.25.30.10:443?security=tls&sni=de14.69lover.my&type=ws&path=%2Fapi%2Fv2%2F6c316c769ad6853c%2Fstream&host=de14.69lover.my&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D",
-    "vless://807cd1e0-f4ce-4785-b7a3-cde0c1614b8d@104.25.30.10:443?security=tls&sni=de14.69lover.my&type=ws&path=%2Fapi%2Fv2%2F6c316c769ad6853c%2Fstream&host=de14.69lover.my&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D",
-    "vless://807cd1e0-f4ce-4785-b7a3-cde0c1614b8d@104.25.30.10:443?security=tls&sni=de14.69lover.my&type=ws&path=%2Fapi%2Fv2%2F6c316c769ad6853c%2Fstream&host=de14.69lover.my&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D",
-    "vless://807cd1e0-f4ce-4785-b7a3-cde0c1614b8d@104.25.30.10:443?security=tls&sni=de14.69lover.my&type=ws&path=%2Fapi%2Fv2%2F6c316c769ad6853c%2Fstream&host=de14.69lover.my&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D"
+    "vless://88f5e38e-5799-4610-8b17-3eb4f4ced616@23.235.33.98:80?encryption=none&security=none&type=xhttp&host=n-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&path=%2Ffast&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D",
+    "vless://57e2a48b-0cc2-4b60-aacd-b36358fcba96@2.27.205.218:443?encryption=none&pbk=DiJo9V7cQ2_dIPXjFjAEFMeLUemQmWpcbTs6ARNh7gg&security=reality&serviceName=grpc&sid=9f3a1c7b&sni=4pda.to&type=grpc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+    "vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?encryption=none&flow=xtls-rprx-vision&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&security=reality&sid=0eec442e7b34d2f2&sni=www.tesla.com&type=tcp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://57e2a48b-0cc2-4b60-aacd-b36358fcba96@2.27.205.218:443?encryption=none&pbk=DiJo9V7cQ2_dIPXjFjAEFMeLUemQmWpcbTs6ARNh7gg&security=reality&serviceName=grpc&sid=9f3a1c7b&sni=4pda.to&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
   ]
 }
