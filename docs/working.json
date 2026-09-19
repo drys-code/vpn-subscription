@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789819363,
-  "updated_utc": "2026-09-19T12:02:43Z",
+  "updated_unix": 1789832981,
+  "updated_utc": "2026-09-19T15:49:41Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 73,
-  "alive_total": 70,
+  "checked": 103,
+  "alive_total": 67,
   "alive_filtered": 4,
   "servers": [
-    "vless://50414e45-4c5f-5a45-5553-4beea30ea96c@154.83.2.110:443?encryption=none&security=tls&sni=4cz9gseouyns.2iz1ile4upks.workers.dev&fp=random&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F4beea30ea96c%2Floc-0&host=4cz9gseouyns.2iz1ile4upks.workers.dev#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
-    "vless://50414e45-4c5f-5a45-5553-4beea30ea96c@154.197.75.160:443?encryption=none&security=tls&sni=4cz9gseouyns.2iz1ile4upks.workers.dev&fp=random&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F4beea30ea96c%2Floc-0&host=4cz9gseouyns.2iz1ile4upks.workers.dev#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880?type=ws&host=vms.lifetime55.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BBL%5D",
-    "vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:8443?mode=gun&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Seattle%20%7C%20%5BBL%5D"
+    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:443?fp=chrome&host=cnmfangbinxingnmsl.asshole.us.ci&path=%2F&security=tls&sni=cnmfangbinxingnmsl.asshole.us.ci&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Boydton%20%7C%20%5BBL%5D",
+    "vless://15a62be2-fd40-4a25-aaf7-c89a59322a82@www.hugedomains.com:8080?type=ws&sni=www.hugedomains.com&host=bjowe5-floral-unit-bc34.rlqvk51u.workers.dev&ed=2048#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
+    "vless://b88a54a0-501c-4acf-930b-305354452f4e@5.78.159.97:443?security=reality&encryption=none&pbk=XB7peN-a_9j_WGBHvs3DIMDlsOzJAOehGnziOE9OvwE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=884dffd8e62a5c48#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Hillsboro%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.39:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
