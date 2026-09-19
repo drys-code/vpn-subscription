@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789803114,
-  "updated_utc": "2026-09-19T07:31:54Z",
+  "updated_unix": 1789819363,
+  "updated_utc": "2026-09-19T12:02:43Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 62,
-  "alive_total": 54,
+  "checked": 73,
+  "alive_total": 70,
   "alive_filtered": 4,
   "servers": [
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.193.213.30:8880?type=ws&host=vms.lifetime23.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.46.50:8880?security=none&type=ws&path=/?ed&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://424fa201-3f94-479e-b533-d5257cf9a207@45.131.208.4:80?type=ws&host=floral-thunder-10d3.82-67d.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?type=ws&host=vms.lifetime59.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
+    "vless://50414e45-4c5f-5a45-5553-4beea30ea96c@154.83.2.110:443?encryption=none&security=tls&sni=4cz9gseouyns.2iz1ile4upks.workers.dev&fp=random&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F4beea30ea96c%2Floc-0&host=4cz9gseouyns.2iz1ile4upks.workers.dev#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+    "vless://50414e45-4c5f-5a45-5553-4beea30ea96c@154.197.75.160:443?encryption=none&security=tls&sni=4cz9gseouyns.2iz1ile4upks.workers.dev&fp=random&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F4beea30ea96c%2Floc-0&host=4cz9gseouyns.2iz1ile4upks.workers.dev#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D",
+    "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880?type=ws&host=vms.lifetime55.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BBL%5D",
+    "vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:8443?mode=gun&security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Seattle%20%7C%20%5BBL%5D"
   ]
 }
