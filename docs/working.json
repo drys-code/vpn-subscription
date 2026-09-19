@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1789832981,
-  "updated_utc": "2026-09-19T15:49:41Z",
+  "updated_unix": 1789841619,
+  "updated_utc": "2026-09-19T18:13:39Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 103,
-  "alive_total": 67,
+  "checked": 100,
+  "alive_total": 91,
   "alive_filtered": 4,
   "servers": [
-    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:443?fp=chrome&host=cnmfangbinxingnmsl.asshole.us.ci&path=%2F&security=tls&sni=cnmfangbinxingnmsl.asshole.us.ci&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Boydton%20%7C%20%5BBL%5D",
-    "vless://15a62be2-fd40-4a25-aaf7-c89a59322a82@www.hugedomains.com:8080?type=ws&sni=www.hugedomains.com&host=bjowe5-floral-unit-bc34.rlqvk51u.workers.dev&ed=2048#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D",
-    "vless://b88a54a0-501c-4acf-930b-305354452f4e@5.78.159.97:443?security=reality&encryption=none&pbk=XB7peN-a_9j_WGBHvs3DIMDlsOzJAOehGnziOE9OvwE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=884dffd8e62a5c48#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Hillsboro%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.39:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:443?host=cnmfangbinxingnmsl.asshole.us.ci&path=%2F&security=tls&sni=cnmfangbinxingnmsl.asshole.us.ci&type=ws&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dulles%20%7C%20%5BBL%5D",
+    "vless://56a1b253-cde4-490f-9c5e-09a523882bdd@172.233.139.46:53734?security=reality&encryption=none&pbk=JAG5rl6KEt7KAV0y8Z2x6orWHymCXRSX49SkEnEftWU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
+    "vless://56a1b253-cde4-490f-9c5e-09a523882bdd@172.233.139.46:53734?security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&type=tcp&host=v2rayNplus--v2rayNplus--v2rayNplus--&fp=firefox&pbk=JAG5rl6KEt7KAV0y8Z2x6orWHymCXRSX49SkEnEftWU&sid=a56d7d8da977f860#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
+    "vless://56a1b253-cde4-490f-9c5e-09a523882bdd@172.233.139.46:53734?flow=xtls-rprx-vision&fp=chrome&host=v2rayNplus--v2rayNplus--v2rayNplus--&pbk=JAG5rl6KEt7KAV0y8Z2x6orWHymCXRSX49SkEnEftWU&security=reality&sid=a56d7d8da977f860&sni=www.tesla.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D"
   ]
 }
