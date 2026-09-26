@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1790417058,
-  "updated_utc": "2026-09-26T10:04:18Z",
+  "updated_unix": 1790432625,
+  "updated_utc": "2026-09-26T14:23:45Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 94,
-  "alive_total": 93,
+  "checked": 92,
+  "alive_total": 92,
   "alive_filtered": 4,
   "servers": [
-    "vless://e7e1bd5c-7fd8-45c1-856d-1ef9308c93be@151.101.213.101:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://e7e1bd5c-7fd8-45c1-856d-1ef9308c93be@151.101.213.101:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://e7e1bd5c-7fd8-45c1-856d-1ef9308c93be@151.101.213.101:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://3343bc4c-8b33-4bda-8c83-0658436e40e9@199.36.158.66:80?encryption=none&security=none&type=xhttp&path=%2F1ht&host=Tronnfinlanddd.com&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://bf419ba4-2713-474e-a2bb-0d10d3e8fd90@146.75.57.25:443?encryption=none&security=tls&sni=community.fastly.com&alpn=h3&type=xhttp&mode=auto&host=taza1.co&path=%2F&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Dronten%20%7C%20%5BBL%5D",
+    "vless://bf419ba4-2713-474e-a2bb-0d10d3e8fd90@146.75.57.25:443?encryption=none&security=tls&sni=community.fastly.com&alpn=h3&type=xhttp&mode=auto&host=taza1.co&path=%2F&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Dronten%20%7C%20%5BBL%5D",
+    "vless://e7e1bd5c-7fd8-45c1-856d-1ef9308c93be@151.101.213.101:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+    "vless://e7e1bd5c-7fd8-45c1-856d-1ef9308c93be@151.101.213.101:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
   ]
 }
