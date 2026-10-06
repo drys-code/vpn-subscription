@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1791301959,
-  "updated_utc": "2026-10-06T15:52:39Z",
+  "updated_unix": 1791319423,
+  "updated_utc": "2026-10-06T20:43:43Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
   "checked": 79,
-  "alive_total": 77,
+  "alive_total": 73,
   "alive_filtered": 4,
   "servers": [
-    "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?encryption=none&type=ws&path=%2F&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D",
-    "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?security=tls&sni=u.srilankangrill.online&type=ws&headerType=none&host=u.srilankangrill.online&path=%2F&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://e1018f67-8d3e-4a8d-b616-069885f1c376@170.114.45.239:443?path=%2Fvl%2Fv9Mk9jBlOxDVE92WbGUn%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=kpvn6dylkb51lao6reoe6pw1jprwc.softfirec60e.workers.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&sni=Kpvn6dYlKB51LaO6rEoE6PW1jpRWC.SoFtFIRec60E.WOrKeRS.dev&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D"
+    "vless://31608e93-a701-4604-b8de-c55baa393937@199.232.239.239:443?type=ws&security=tls&sni=ssl.fastly.com&host=uol258ehdmsohzh.global.ssl.fastly.net&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://e1018f67-8d3e-4a8d-b616-069885f1c376@170.114.45.239:443?path=%2Fvl%2Fv9Mk9jBlOxDVE92WbGUn%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=kpvn6dylkb51lao6reoe6pw1jprwc.softfirec60e.workers.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&sni=Kpvn6dYlKB51LaO6rEoE6PW1jpRWC.SoFtFIRec60E.WOrKeRS.dev&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://e1018f67-8d3e-4a8d-b616-069885f1c376@170.114.45.239:443?path=%2Fvl%2Fv9Mk9jBlOxDVE92WbGUn%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=kpvn6dylkb51lao6reoe6pw1jprwc.softfirec60e.workers.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&sni=Kpvn6dYlKB51LaO6rEoE6PW1jpRWC.SoFtFIRec60E.WOrKeRS.dev&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D",
+    "vless://31608e93-a701-4604-b8de-c55baa393937@199.232.239.239:443?type=ws&security=tls&sni=ssl.fastly.com&host=uol258ehdmsohzh.global.ssl.fastly.net&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
