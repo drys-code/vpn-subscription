@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1791331874,
-  "updated_utc": "2026-10-07T00:11:14Z",
+  "updated_unix": 1791353128,
+  "updated_utc": "2026-10-07T06:05:28Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 111,
-  "alive_total": 109,
+  "checked": 132,
+  "alive_total": 132,
   "alive_filtered": 4,
   "servers": [
-    "vless://31608e93-a701-4604-b8de-c55baa393937@199.232.239.239:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=uol258ehdmsohzh.global.ssl.fastly.net#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://eb5e2e96-6388-40bf-ad37-76c7e73f33c9@146.75.59.79:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
     "vless://eb5e2e96-6388-40bf-ad37-76c7e73f33c9@146.75.59.79:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://eb5e2e96-6388-40bf-ad37-76c7e73f33c9@146.75.59.79:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=accounts.fastly.com&alpn=h3&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://e3fb01b6-69b4-41d7-babf-696d992de194@cctvhikvision.center:2053?host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&sni=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@cctvhikvision.center:2053?host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&sni=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://eb5e2e96-6388-40bf-ad37-76c7e73f33c9@146.75.59.79:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=accounts.fastly.com&fp=chrome&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
