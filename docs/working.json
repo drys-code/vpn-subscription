@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1791428086,
-  "updated_utc": "2026-10-08T02:54:46Z",
+  "updated_unix": 1791452926,
+  "updated_utc": "2026-10-08T09:48:46Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 95,
-  "alive_total": 90,
+  "checked": 106,
+  "alive_total": 101,
   "alive_filtered": 4,
   "servers": [
-    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://a853e120-3570-462b-aec1-e8f3d4f92d24@170.114.52.22:443?type=ws&security=tls&sni=asia.csmaster.site&host=asia.csmaster.site&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://a853e120-3570-462b-aec1-e8f3d4f92d24@170.114.52.22:443?type=ws&security=tls&sni=asia.csmaster.site&host=asia.csmaster.site&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://a853e120-3570-462b-aec1-e8f3d4f92d24@170.114.52.22:443?type=ws&security=tls&sni=asia.csmaster.site&host=asia.csmaster.site&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?mode=auto&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&security=tls&alpn=h2&encryption=none&host=cloudnet2026.global.ssl.fastly.net&type=xhttp&sni=ssl.fastly.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?mode=auto&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&security=tls&alpn=h2&encryption=none&host=cloudnet2026.global.ssl.fastly.net&type=xhttp&sni=ssl.fastly.com&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?security=none&type=ws&path=/ws&host=soft-shadow-1e33.xicav73335.workers.dev&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?mode=auto&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&security=tls&alpn=h2&encryption=none&host=cloudnet2026.global.ssl.fastly.net&type=xhttp&sni=ssl.fastly.com&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
