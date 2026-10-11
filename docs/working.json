@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1791731198,
-  "updated_utc": "2026-10-11T15:06:38Z",
+  "updated_unix": 1791747028,
+  "updated_utc": "2026-10-11T19:30:28Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 153,
-  "alive_total": 150,
+  "checked": 155,
+  "alive_total": 145,
   "alive_filtered": 4,
   "servers": [
-    "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&sid=4c69c4b51c580d60&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D",
+    "vless://a532d312-32eb-4224-ad03-ad34dc2fbc41@151.101.173.16:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=dayka-unkepravber.net&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%22100%22%7D%7D&fragment=1-3%2C10-20%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%2210-20%22%2C%22length%22%3A%221-3%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D",
     "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&sid=4c69c4b51c580d60&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D",
-    "vless://2fef98ad-aa5a-6727-fcc9-33714e619056@147.78.182.5:443?security=reality&sni=download.nvidia.com&fp=random&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&path=%2F&mode=auto&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-    "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&sid=4c69c4b51c580d60&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D"
+    "vless://6d5c8390-69fb-4bcf-a2f9-d7f850aaf2cc@94.26.3.25:443?type=grpc&security=reality&fp=random&pbk=54D9VU01h1iNtBP1XVSrQJr_7Cabjg8VC692kjT_VEg&sni=optim.tildacdn.pub&serviceName=ebl#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Newark%20%7C%20%5BBL%5D",
+    "vless://6d5c8390-69fb-4bcf-a2f9-d7f850aaf2cc@80.76.49.25:443?type=grpc&security=reality&fp=random&pbk=hCBwrYIAOTCQVt1r39y3_8a96GAqlC5Zl-0QjZSmXHQ&sni=optim.tildacdn.pub&serviceName=ebl#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Edison%20%7C%20%5BBL%5D"
   ]
 }
