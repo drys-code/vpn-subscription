@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1791684322,
-  "updated_utc": "2026-10-11T02:05:22Z",
+  "updated_unix": 1791708161,
+  "updated_utc": "2026-10-11T08:42:41Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 138,
-  "alive_total": 134,
+  "checked": 155,
+  "alive_total": 147,
   "alive_filtered": 4,
   "servers": [
-    "vless://bcf7a648-9e07-4c16-9fd6-4961d4cb6a03@188.114.97.1:80?path=%2Fvl%2Fe8vhPk8nOieNXpexoWWelwb%3Fed%3D2560&security=&encryption=none&host=vviceelgs8fibv06yu.n5tdleya1gnnojcajv70.workers.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://048f17a2-10e3-46a3-9889-310f206ce969@23.191.200.207:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&sni=dl.google.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&sid=4c69c4b51c580d60&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D",
+    "vless://2fef98ad-aa5a-6727-fcc9-33714e619056@147.78.182.5:443?path=%2F&security=reality&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&sni=download.nvidia.com&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
     "vless://2fef98ad-aa5a-6727-fcc9-33714e619056@147.78.182.5:443?path=%2F&security=reality&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&sni=download.nvidia.com&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D",
-    "vless://2fef98ad-aa5a-6727-fcc9-33714e619056@147.78.182.5:443?path=%2F&security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D"
+    "vless://2fef98ad-aa5a-6727-fcc9-33714e619056@147.78.182.5:443?path=%2F&security=reality&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&sni=download.nvidia.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D"
   ]
 }
