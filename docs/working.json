@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1792118491,
-  "updated_utc": "2026-10-16T02:41:31Z",
+  "updated_unix": 1792135933,
+  "updated_utc": "2026-10-16T07:32:13Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 121,
+  "checked": 113,
   "alive_total": 111,
   "alive_filtered": 4,
   "servers": [
     "vless://e829b2ab-4473-460f-9f04-04ac7366fe38@167.82.76.27:80?mode=auto&path=%2F&security=none&encryption=none&host=tuhkoiizizwrwip.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://95e7c367-f240-47ec-a756-808e08c09692@151.101.173.53:443?encryption=none&security=tls&sni=accounts.fastly.com&type=xhttp&path=%2F&host=oh1.global.ssl.fastly.net&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://XpnTeam-9@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://XpnTeam-10@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://f02e4193-8d89-452f-93d7-c6b133e82b9e@151.101.39.60:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.8:443?type=ws&security=tls&fp=chrome&host=vless2-8vx.pages.dev&packet-encoding=xudp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://XpnTeam-9@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%5BBL%5D"
   ]
 }
