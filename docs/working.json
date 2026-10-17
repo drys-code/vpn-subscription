@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1792197574,
-  "updated_utc": "2026-10-17T00:39:34Z",
+  "updated_unix": 1792213111,
+  "updated_utc": "2026-10-17T04:58:31Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 100,
-  "alive_total": 100,
+  "checked": 87,
+  "alive_total": 87,
   "alive_filtered": 4,
   "servers": [
-    "vless://XpnTeam-13@199.232.78.160:443?security=tls&type=ws&path=%2F&host=Appxdn.global.ssl.fastly.net&packetEncoding=xudp&alpn=http%2F1.1&sni=ssl.fastly.com&encryption=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://XpnTeam-13@199.232.78.160:443?security=tls&type=ws&path=%2F&host=Appxdn.global.ssl.fastly.net&packetEncoding=xudp&alpn=http%2F1.1&sni=ssl.fastly.com&encryption=none&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://a32eb03a-c0fe-434d-af9b-7a28070ab840@151.101.173.81:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=dayka-unkepravber.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D",
-    "vless://a32eb03a-c0fe-434d-af9b-7a28070ab840@151.101.173.81:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=dayka-unkepravber.net&path=%2F&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D"
+    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@188.114.98.0:2096?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@188.114.98.0:2096?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@172.67.76.230:2083?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@172.67.76.230:2083?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
   ]
 }
