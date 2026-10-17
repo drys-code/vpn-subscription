@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1792213111,
-  "updated_utc": "2026-10-17T04:58:31Z",
+  "updated_unix": 1792227843,
+  "updated_utc": "2026-10-17T09:04:03Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 87,
-  "alive_total": 87,
+  "checked": 78,
+  "alive_total": 75,
   "alive_filtered": 4,
   "servers": [
-    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@188.114.98.0:2096?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@188.114.98.0:2096?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@172.67.76.230:2083?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://fceb3200-2516-47d2-8e28-d04ecde9427a@172.67.76.230:2083?encryption=none&security=tls&sni=edge-fef90023.pages.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=edge-fef90023.pages.dev&path=%2F&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
+    "vless://40af9131-d540-448a-bc56-5bba147a1dc3@27.50.49.154:2083?encryption=none&host=proxy-34l.pages.dev&path=%2F&security=tls&sni=proxy-34l.pages.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
+    "vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@188.114.98.0:443?host=jp.lovehk.xyz&path=%2FTokyo1&security=tls&sni=jp.lovehk.xyz&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D",
+    "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
