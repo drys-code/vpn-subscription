@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1792438229,
-  "updated_utc": "2026-10-19T19:30:29Z",
+  "updated_unix": 1792450993,
+  "updated_utc": "2026-10-19T23:03:13Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 47,
-  "alive_total": 38,
+  "checked": 58,
+  "alive_total": 57,
   "alive_filtered": 4,
   "servers": [
-    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?security=tls&sni=Account.fastly.com&alpn=h2&type=xhttp&mode=auto&host=mxnlkmmqi.global.ssl.fastly.net&path=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D",
-    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?fp=firefox&host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D",
-    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D",
-    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D"
+    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?alpn=h2&host=mxnlkmmqi.global.ssl.fastly.net&mode=auto&path=%2F&security=tls&sni=Account.fastly.com&type=xhttp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D",
+    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?fp=firefox&host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D"
   ]
 }
