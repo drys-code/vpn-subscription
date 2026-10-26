@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1792990398,
-  "updated_utc": "2026-10-26T04:53:18Z",
+  "updated_unix": 1793011302,
+  "updated_utc": "2026-10-26T10:41:42Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 118,
-  "alive_total": 111,
+  "checked": 69,
+  "alive_total": 69,
   "alive_filtered": 4,
   "servers": [
-    "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?security=tls&type=ws&path=%2Fvlessws&host=vpn.cintaku.qzz.io&packetEncoding=xudp&sni=vpn.cintaku.qzz.io&fp=chrome&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Shah%20Alam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.70.21:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D",
-    "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.21:443?encryption=none&type=ws&security=tls&sni=a.cwvps.eu.org&fp=chrome&ech=doxygen.org%2Bhttps%3A//8.8.4.4/dns-query&host=a.cwvps.eu.org&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D",
-    "vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?security=none&fp=chrome&type=ws&path=/rain1226&host=eu02.123450908.xyz&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D"
+    "vless://XpnTeam-50@199.232.78.170:443?security=tls&type=ws&sni=ssl.fastly.com&path=%2F&host=Appxdn.global.ssl.fastly.net&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://XpnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://XpnTeam-50@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://XpnTeam-50@199.232.78.160:443?security=tls&type=ws&path=/&host=Appxdn.global.ssl.fastly.net&packetEncoding=xudp&alpn=http/1.1&sni=ssl.fastly.com&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
