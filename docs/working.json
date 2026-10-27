@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1793061996,
-  "updated_utc": "2026-10-27T00:46:36Z",
+  "updated_unix": 1793079660,
+  "updated_utc": "2026-10-27T05:41:00Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 74,
-  "alive_total": 74,
+  "checked": 88,
+  "alive_total": 88,
   "alive_filtered": 4,
   "servers": [
-    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://80c2ebdb-755f-4516-a3ea-72fc3f4caed0@151.101.3.6:443?encryption=none&security=tls&sni=Apps.apple.com&alpn=h3&fp=chrome&type=xhttp&mode=auto&host=Mastervpsfasjt.global.ssl.fastly.net&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://80c2ebdb-755f-4516-a3ea-72fc3f4caed0@151.101.3.6:443?encryption=none&security=tls&sni=Apps.apple.com&alpn=h3&type=xhttp&mode=auto&host=Mastervpsfasjt.global.ssl.fastly.net&path=%2F&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://f29bb776-4e2d-4884-b628-98d8907132be@146.75.35.31:443?path=%2F&security=tls&encryption=none&insecure=0&host=ovd13.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://80c2ebdb-755f-4516-a3ea-72fc3f4caed0@151.101.3.6:443?encryption=none&security=tls&sni=Apps.apple.com&alpn=h3&type=xhttp&mode=auto&host=Mastervpsfasjt.global.ssl.fastly.net&path=%2F&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
   ]
 }
