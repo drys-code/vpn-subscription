@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1793050575,
-  "updated_utc": "2026-10-26T21:36:15Z",
+  "updated_unix": 1793061996,
+  "updated_utc": "2026-10-27T00:46:36Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 69,
-  "alive_total": 69,
+  "checked": 74,
+  "alive_total": 74,
   "alive_filtered": 4,
   "servers": [
-    "vless://XpnTeam-52@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://XpnTeam-52@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://XpnTeam-52@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://XpnTeam-52@199.232.78.170:443?security=tls&type=ws&sni=ssl.fastly.com&path=%2F&host=Appxdn.global.ssl.fastly.net&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://2c14bb3c-ad83-4801-b475-9704dbc81b20@8.6.112.0:443?security=tls&sni=germany.wspocket1.online&alpn=h3&type=xhttp&mode=packet-up&host=germany.wspocket1.online&path=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
