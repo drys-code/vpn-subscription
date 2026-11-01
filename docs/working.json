@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1793524154,
-  "updated_utc": "2026-11-01T09:09:14Z",
+  "updated_unix": 1793548712,
+  "updated_utc": "2026-11-01T15:58:32Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 94,
-  "alive_total": 93,
+  "checked": 58,
+  "alive_total": 57,
   "alive_filtered": 4,
   "servers": [
-    "vless://bdf38176-48e9-40f1-9d1c-d501c333b464@151.101.131.6:443?encryption=none&security=tls&sni=apps.apple.com&alpn=h3&type=xhttp&mode=auto&host=kkbr.tm&path=%2Fcrownnet&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://bdf38176-48e9-40f1-9d1c-d501c333b464@151.101.131.6:443?encryption=none&security=tls&sni=apps.apple.com&alpn=h3&fp=chrome&type=xhttp&mode=auto&host=kkbr.tm&path=%2Fcrownnet#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://bdf38176-48e9-40f1-9d1c-d501c333b464@151.101.131.6:443?encryption=none&security=tls&sni=apps.apple.com&alpn=h3&type=xhttp&mode=auto&host=kkbr.tm&path=%2Fcrownnet&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://49e29dba-814a-50b0-b4a9-deffe26ae624@199.232.78.170:443?path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://36592d47-b9f5-4e8f-949e-45ac05472aab@141.193.213.21:2083?host=site.check-looks.space&insecure=0&path=%2F&security=tls&sni=site.check-looks.space&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D",
+    "vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@216.24.57.15:443?sni=four04-rd37.onrender.com&alpn=http/1.1&type=ws&host=four04-rd37.onrender.com&path=/ws/2ee0d2aa-867e-a77e-9538-2edfc0b242aafp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
+    "vless://36592d47-b9f5-4e8f-949e-45ac05472aab@141.193.213.21:2083?host=site.check-looks.space&insecure=0&path=%2F&security=tls&sni=site.check-looks.space&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://36592d47-b9f5-4e8f-949e-45ac05472aab@141.193.213.21:2083?security=tls&sni=site.check-looks.space&type=ws&host=site.check-looks.space&path=%2F&allowInsecure=0&insecure=0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
