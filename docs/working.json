@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1794614120,
-  "updated_utc": "2026-11-13T23:55:20Z",
+  "updated_unix": 1794630814,
+  "updated_utc": "2026-11-14T04:33:34Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 72,
-  "alive_total": 72,
+  "checked": 100,
+  "alive_total": 100,
   "alive_filtered": 4,
   "servers": [
-    "vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.112.134:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.64.152.33:443?security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F&allowInsecure=0&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@162.159.198.1:443?security=tls&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D",
-    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.0.1:443?alpn=http%2F1.1&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac@172.66.44.133:443?security=tls&type=ws&path=/&host=web-tomcat.pages.dev&packetEncoding=xudp&sni=web-tomcat.pages.dev&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D",
+    "vless://2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac@web-tomcat.pages.dev:443?type=ws&security=tls&fp=chrome&host=web-tomcat.pages.dev&packet-encoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D",
+    "vless://d027b485-4e11-4485-9d0f-2ef1f1129eff@172.67.219.189:443?encryption=none&fp=firefox&host=cdn4.salamfox.ir&path=/d027b485-4e11-4485-9d0f-2ef1f1129eff&security=tls&sni=cdn4.salamfox.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Vancouver%20%7C%20%5BBL%5D",
+    "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D"
   ]
 }
