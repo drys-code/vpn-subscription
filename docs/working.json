@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1794844922,
-  "updated_utc": "2026-11-16T16:02:02Z",
+  "updated_unix": 1794874233,
+  "updated_utc": "2026-11-17T00:10:33Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 102,
-  "alive_total": 98,
+  "checked": 77,
+  "alive_total": 77,
   "alive_filtered": 4,
   "servers": [
-    "vless://dd5e3dff-58d7-455a-ac8b-d86f5c80b499@90.98.0.3:443?type=xhttp&security=tls&fp=firefox&sni=account.fastly.com&host=mastervpshost1.global.ssl.fastly.net&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://3c8017c8-0997-4c57-a3a4-c8c101a2a3f8@167.82.64.46:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D",
-    "vless://dd5e3dff-58d7-455a-ac8b-d86f5c80b499@90.98.0.3:443?security=tls&sni=account.fastly.com&alpn=h3&fp=firefox&type=xhttp&host=Mastervpshost1.global.ssl.fastly.net&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D",
-    "vless://b19c62cc-f2c2-4895-aee1-978a0f58f8c8@www.zoom.us:443?type=ws&path=%252F&host=matrix.phonicsindia.mobi&security=tls&sni=matrix.phonicsindia.mobi&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Outram%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://a0144f3b-b7d4-47c3-b0bc-413194f001a8@151.101.3.6:443?alpn=h3&encryption=none&host=razor1.global.ssl.fastly.net&mode=packet-up&path=%2F&security=tls&sni=apps.apple.com&type=xhttp&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D",
+    "vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?alpn=http%2F1.1&encryption=none&host=free.sahanwickramasinghe.com&path=%2F&security=tls&sni=free.sahanwickramasinghe.com&type=ws&allowInsecure=0&insecure=0&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?type=ws&security=tls&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://a0144f3b-b7d4-47c3-b0bc-413194f001a8@151.101.3.6:443?alpn=h3&encryption=none&host=razor1.global.ssl.fastly.net&mode=packet-up&path=%2F&security=tls&sni=apps.apple.com&type=xhttp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
   ]
 }
