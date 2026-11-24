@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1795498017,
-  "updated_utc": "2026-11-24T05:26:57Z",
+  "updated_unix": 1795536493,
+  "updated_utc": "2026-11-24T16:08:13Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 87,
-  "alive_total": 87,
+  "checked": 175,
+  "alive_total": 168,
   "alive_filtered": 4,
   "servers": [
-    "vless://e15225fb-0998-4719-8391-eede56f4d472@146.75.32.177:443?security=tls&sni=zd.fastly.com&alpn=h3&fp=firefox&type=xhttp&host=huryuk.global.ssl.fastly.net&path=%2F&mode=packet-up#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.netfp%3Dchrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D",
-    "vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.114.98.0:443?alpn=http%2F1.1&encryption=none&host=o685y.save-node.com&insecure=0&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BBL%5D"
+    "vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=edge&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Limburg%20an%20der%20Lahn%20%7C%20%5BBL%5D",
+    "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@104.17.145.145:443?encryption=none&security=tls&sni=estuary.gerqix.online&alpn=http%2F1.1&type=ws&path=%2Fapi%2Fde7%2Fstream&host=estuary.gerqix.online&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?type=ws&security=tls&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://88e79aa6-f431-4453-8dcc-652a0c747198@104.19.45.195:443?type=ws&security=tls&sni=o685y.save-node.com&alpn=http%2F1.1&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&host=o685y.save-node.com&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
   ]
 }
