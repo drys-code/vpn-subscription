@@ -1,14 +1,14 @@
 {
-  "updated_unix": 1795659011,
-  "updated_utc": "2026-11-26T02:10:11Z",
+  "updated_unix": 1795690195,
+  "updated_utc": "2026-11-26T10:49:55Z",
   "source": "https://tiagorrg.github.io/vless-checker/keys.json",
-  "checked": 80,
-  "alive_total": 69,
+  "checked": 79,
+  "alive_total": 79,
   "alive_filtered": 4,
   "servers": [
-    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&type=ws&sni=matrix.learnpodedu.com&path=%2F&host=matrix.learnpodedu.com&fp=chrome&alpn=h3#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Outram%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
-    "vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Outram%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    "vless://bd6c11e0-0233-4fb1-ba97-8d5f16d7155f@104.17.145.43:2083?encryption=none&host=site.check-looks.space&path=%2F&security=tls&sni=site.check-looks.space&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?alpn=http%2F1.1&encryption=none&host=free.sahanwickramasinghe.com&path=%2F&security=tls&sni=free.sahanwickramasinghe.com&type=ws&fp=edge&allowInsecure=0&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Limburg%20an%20der%20Lahn%20%7C%20%5BBL%5D",
+    "vless://bd6c11e0-0233-4fb1-ba97-8d5f16d7155f@162.159.152.118:2083?encryption=none&host=site.check-looks.space&path=%2F&security=tls&sni=site.check-looks.space&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D",
+    "vless://bd6c11e0-0233-4fb1-ba97-8d5f16d7155f@162.159.152.118:2083?encryption=none&host=site.check-looks.space&path=%2F&security=tls&sni=site.check-looks.space&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
   ]
 }
